@@ -1,0 +1,1408 @@
+,query,seed_keyword,competition,avg_cpc,1,2,3,4,5,6,7,8,9,10,11,12
+0,eurostar,train paris london,0.16,0.43,60500,201000,246000,301000,301000,246000,301000,301000,201000,201000,201000,201000
+1,paris londres train,train paris london,4.45,0.14,880,2400,4400,5400,4400,5400,6600,4400,5400,4400,3600,4400
+2,paris londres eurostar,train paris london,2.31,0.05,480,1900,4400,4400,3600,5400,6600,5400,5400,5400,5400,6600
+3,paris londres pas cher,train paris london,12.04,0.14,90,880,2900,3600,4400,5400,6600,4400,4400,3600,2900,2900
+4,eurostar londres paris,train paris london,0.97,0.08,390,1600,14800,1300,1300,1600,14800,1600,1000,3600,8100,1600
+5,billet eurostar,train paris london,4.82,0.14,590,1900,3600,4400,3600,3600,4400,4400,3600,2900,2900,2900
+6,paris londres bus,train paris london,4.23,0.06,210,880,2400,2400,2900,2900,3600,2400,2900,2900,2400,2400
+7,train londres paris,train paris london,3.5,0.08,390,1300,1600,1600,1600,1900,1900,1600,1300,1300,1000,1300
+8,bus londres paris,train paris london,3.31,0.04,90,590,1000,880,1600,1300,1300,1000,1300,1300,1000,1300
+9,paris londre train,train paris london,2.41,0.11,170,390,1000,1000,880,1000,1300,880,880,720,720,720
+10,londres paris,train paris london,2.44,0.13,880,2900,3600,3600,4400,4400,4400,3600,3600,3600,2900,2900
+11,eurostar prix,train paris london,3.12,0.06,170,480,880,1000,1000,1300,880,1600,1300,720,390,590
+12,billet eurostar pas cher,train paris london,19.17,0.22,40,320,720,1000,720,1000,1300,1000,880,880,880,1000
+13,eurostar gare du nord,train paris london,0.11,0.0,140,590,1000,1300,1300,1600,1600,1900,1900,1900,1900,1900
+14,paris londres en train,train paris london,2.12,0.06,50,110,320,390,260,480,480,320,320,260,210,320
+15,eurostar pas cher,train paris london,9.0,0.16,70,880,1600,1600,1600,4400,1900,1900,2900,2900,1300,1600
+16,paris londre pas cher,train paris london,6.02,0.11,20,110,210,210,260,320,390,260,320,210,260,320
+17,prix eurostar,train paris london,0.35,0.06,260,480,1000,1000,1000,1000,1000,1000,1000,880,590,880
+18,tgv londres paris,train paris london,1.53,0.15,50,170,210,210,210,260,260,210,170,170,170,170
+19,eurostar promo,train paris london,2.38,0.0,90,720,1600,2400,1300,1900,2400,2400,1600,2400,1900,1900
+20,tarif eurostar,train paris london,2.91,0.06,110,210,720,880,590,590,880,590,720,480,480,720
+21,eurostar horaires,train paris london,0.42,0.06,320,1000,1900,1900,2900,1900,1900,2400,2400,2400,1600,1900
+22,sncf eurostar,train paris london,0.0,0.0,110,390,480,720,880,590,590,720,480,480,480,480
+23,reservation eurostar,train paris london,0.33,0.0,90,260,480,590,590,480,590,390,390,320,390,390
+24,paris londres en bus,train paris london,0.0,0.0,20,70,170,210,260,260,320,210,260,320,210,210
+25,eurostar tarif,train paris london,5.01,0.0,50,110,320,390,320,390,390,590,590,480,320,480
+26,eurostar reservation,train paris london,0.17,0.0,90,260,320,390,480,480,320,480,320,320,260,320
+27,paris londres train pas cher,train paris london,2.86,0.06,10,70,480,390,260,320,590,390,480,480,320,320
+28,billet londres paris,train paris london,5.38,0.09,70,320,480,590,590,590,590,590,480,390,320,390
+29,paris londres sncf,train paris london,2.6,0.0,10,40,90,90,90,110,140,140,110,110,110,90
+30,londre train,train paris london,3.94,0.12,30,70,210,210,210,210,260,210,170,140,110,140
+31,horaires eurostar,train paris london,0.0,0.0,140,720,1300,1300,1600,1300,1300,1300,1000,1300,1300,1300
+32,billet eurostar pas cher derniere minute,train paris london,0.0,0.0,10,140,480,390,390,260,590,320,390,480,390,480
+33,londres paris train,train paris london,3.04,0.06,170,590,720,880,590,720,880,590,480,480,480,390
+34,eurostar billet,train paris london,1.36,0.32,210,720,1000,1600,1300,2400,1300,2400,1000,720,590,720
+35,billet paris londres,train paris london,8.89,0.12,170,880,1900,2400,2400,2400,2900,2400,1900,1600,1300,1600
+36,promo eurostar,train paris london,0.0,0.0,10,170,590,1000,390,720,880,880,480,390,480,590
+37,ticket eurostar,train paris london,0.0,0.0,30,50,90,110,110,90,110,90,110,90,70,90
+38,gare du nord eurostar,train paris london,0.0,0.0,90,390,880,880,1000,1000,1000,1000,1000,1000,1000,1300
+39,tgv paris londre,train paris london,3.9,0.0,10,40,50,90,90,70,90,90,70,70,70,40
+40,paris londres tgv,train paris london,4.76,0.12,30,90,260,260,590,590,480,260,260,170,170,140
+41,paris londres en eurostar,train paris london,3.06,0.06,10,40,140,110,90,90,110,90,90,70,50,70
+42,paris londre en train,train paris london,2.26,0.17,20,30,90,110,90,110,140,90,90,50,70,50
+43,londre en train,train paris london,6.59,0.11,10,30,70,110,110,90,140,110,110,50,70,70
+44,billet de train eurostar,train paris london,0.65,0.26,40,90,170,170,170,210,260,210,210,170,140,140
+45,paris londres bus pas cher,train paris london,35.71,0.0,10,50,110,140,110,90,170,70,140,90,90,110
+46,londres paris eurostar,train paris london,1.73,0.05,110,390,390,390,590,390,590,720,880,720,480,720
+47,train pour londre,train paris london,2.38,0.06,30,70,140,140,170,170,210,140,140,110,70,110
+48,paris londres eurostar pas cher,train paris london,0.0,0.0,10,20,40,50,70,140,110,50,50,40,40,30
+49,paris londres pas cher avion,train paris london,0.0,0.0,0,20,70,70,90,90,140,70,70,40,50,70
+50,billet train paris londre,train paris london,9.52,0.09,10,20,50,50,70,70,110,90,90,70,50,50
+51,tgv eurostar,train paris london,0.11,0.0,140,210,210,210,260,210,210,170,170,170,140,140
+52,londre eurostar,train paris london,0.71,0.0,20,50,140,170,210,210,210,170,170,140,110,140
+53,paris londres pas cher train,train paris london,0.0,0.06,0,30,40,50,50,110,90,50,70,70,40,40
+54,eurostar billet pas cher,train paris london,0.0,0.0,10,50,90,170,110,170,170,110,110,140,140,170
+55,prix billet eurostar,train paris london,2.12,0.26,50,90,170,170,170,170,170,170,170,140,110,140
+56,trajet eurostar,train paris london,0.0,0.0,110,260,590,480,480,390,590,390,590,390,320,390
+57,paris angleterre train,train paris london,1.19,0.21,20,20,70,70,70,40,110,70,110,90,50,40
+58,eurostar sncf,train paris london,0.0,0.0,90,210,260,320,480,480,480,390,260,260,170,210
+59,billet londre,train paris london,14.29,0.12,50,210,480,590,590,720,720,590,390,320,260,320
+60,paris londres pas cher eurostar,train paris london,0.0,0.0,10,10,20,20,10,10,20,10,10,20,20,30
+61,billet train londre,train paris london,0.95,0.34,10,40,110,110,140,140,170,170,140,90,70,90
+62,paris londre,train paris london,5.09,0.11,390,1300,2900,3600,3600,4400,5400,3600,3600,2400,2400,2400
+63,paris londre en bus,train paris london,0.0,0.0,10,20,30,50,50,50,70,40,50,50,40,30
+64,billet de train londres paris,train paris london,11.02,0.1,30,110,140,140,170,140,260,210,140,90,70,70
+65,tgv londre,train paris london,0.0,0.0,20,20,50,70,90,90,90,90,50,50,50,40
+66,billet train eurostar,train paris london,2.2,0.0,10,50,90,110,110,140,140,110,140,90,70,110
+67,billet londres,train paris london,9.6,0.1,210,720,1900,2400,2400,2400,2900,2400,1600,1600,1300,1300
+68,paris londres pas cher bus,train paris london,21.43,0.11,10,10,20,20,40,20,50,20,50,40,30,20
+69,billet train londres paris,train paris london,6.59,0.06,30,70,70,140,110,170,210,170,170,90,70,70
+70,paris londres low cost,train paris london,0.0,0.0,20,30,40,40,50,40,40,30,20,20,10,20
+71,paris a londres eurostar,train paris london,0.0,0.0,10,10,10,10,10,20,10,10,10,20,10,10
+72,paris londres thalys,train paris london,0.0,0.0,10,20,40,70,50,70,50,40,40,30,10,20
+73,londres paris bus,train paris london,2.76,0.11,30,210,320,260,480,390,390,320,480,390,320,320
+74,paris londres aller retour,train paris london,5.19,0.14,10,40,70,140,110,110,140,110,70,70,90,50
+75,londres eurostar,train paris london,1.25,0.04,110,390,1000,1300,1000,1300,1600,1300,1000,880,720,880
+76,gare eurostar,train paris london,0.0,0.0,50,110,210,210,260,260,260,210,260,260,210,260
+77,train paris londres,train paris london,2.44,0.06,720,2900,6600,8100,6600,8100,9900,6600,5400,5400,4400,5400
+78,train londres,train paris london,1.96,0.11,260,1000,2900,3600,2900,3600,3600,2900,2400,1900,1600,1900
+79,paris londre tgv,train paris london,2.6,0.06,10,20,40,90,90,110,140,110,90,70,70,70
+80,paris londres shuttle,train paris london,0.0,0.0,10,10,40,50,50,50,50,30,40,30,10,30
+81,promotion eurostar,train paris london,0.0,0.0,10,70,210,390,140,260,260,320,210,170,170,210
+82,transport londres,train paris london,0.63,0.86,210,720,1900,1900,1900,1900,2400,1600,1600,1300,1000,1600
+83,billet de train,train paris london,28.16,0.13,33100,110000,201000,201000,165000,201000,246000,201000,246000,301000,246000,201000
+84,offre eurostar,train paris london,0.0,0.0,10,50,170,320,110,210,260,260,170,170,140,170
+85,eurostar réservation,train paris london,0.0,0.0,20,50,70,70,90,70,70,70,40,40,70,70
+86,eurostar paris londres,train paris london,1.49,0.28,1300,4400,9900,27100,9900,9900,27100,9900,8100,8100,6600,8100
+87,depart eurostar,train paris london,0.0,0.0,50,140,320,260,320,260,260,210,320,320,210,260
+88,eurostar lille londres,train paris london,0.34,0.3,480,1000,1900,4400,2900,3600,3600,5400,1900,1900,2900,3600
+89,train pour londres,train paris london,6.87,0.08,210,590,1300,1600,1600,1600,1900,1300,1300,1000,880,1000
+90,horaires eurostar londres paris,train paris london,0.42,0.0,30,170,320,320,480,320,390,390,320,390,320,260
+91,paris londres par train,train paris london,2.86,0.0,10,10,20,20,20,10,10,10,10,20,10,10
+92,paris londres billet,train paris london,9.52,0.0,10,40,90,90,70,90,110,110,50,50,40,70
+93,carte eurostar,train paris london,0.0,0.0,30,70,110,140,110,140,140,170,140,140,110,110
+94,billet de train eurostar pas cher,train paris london,0.0,0.0,10,10,20,20,10,20,20,30,30,50,30,30
+95,eurostar londres,train paris london,0.11,0.06,1600,2900,3600,4400,4400,5400,4400,2900,2400,2400,1900,2400
+96,voyage eurostar,train paris london,0.41,0.0,30,90,40,50,30,40,30,90,40,40,30,50
+97,aller retour londres,train paris london,4.22,0.19,40,210,480,720,720,720,880,720,590,480,390,480
+98,reservation eurostar pas cher,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+99,paris londres en bus pas cher,train paris london,0.0,0.0,0,10,10,10,20,20,20,10,10,10,10,10
+100,billet pour londre,train paris london,15.67,0.13,30,70,140,170,260,260,260,170,170,140,110,110
+101,reserver billet train,train paris london,20.35,0.19,320,880,1900,1900,1600,1900,2400,2400,2400,2400,2400,2400
+102,paris londres en train pas cher,train paris london,0.0,0.0,0,10,20,20,10,20,40,30,30,30,20,20
+103,paris londres train prix,train paris london,2.76,0.2,30,40,110,170,110,110,90,50,50,50,40,40
+104,paris londres,train paris london,4.75,0.14,2400,9900,22200,27100,27100,33100,40500,27100,27100,22200,18100,22200
+105,reservation train,train paris london,16.7,0.14,1900,5400,9900,12100,9900,9900,12100,12100,9900,9900,8100,8100
+106,billet pour londres,train paris london,20.04,0.11,140,390,880,1300,1300,1000,1600,1000,880,720,590,720
+107,train billet,train paris london,29.49,0.14,390,1300,2900,2400,2400,2900,3600,2900,2900,2900,2900,2900
+108,train pour londre pas cher,train paris london,0.0,0.0,10,10,10,20,10,30,30,20,20,40,10,20
+109,paris londres eurostar prix,train paris london,1.43,0.06,10,30,90,140,70,110,140,170,140,140,110,70
+110,paris londres aller retour pas cher,train paris london,0.0,0.0,0,10,10,20,20,30,30,10,40,40,20,20
+111,paris londres train eurostar,train paris london,0.0,0.0,10,20,10,20,70,70,40,20,20,30,30,10
+112,billet eurostar londres paris,train paris london,4.49,0.06,30,40,50,70,30,70,40,50,90,90,70,70
+113,tgv paris,train paris london,3.47,0.11,590,1900,2900,2900,2900,2900,3600,3600,2900,2900,2900,2900
+114,achat billet eurostar,train paris london,3.43,0.04,20,20,70,50,40,50,70,50,50,50,40,40
+115,trajet londres paris,train paris london,0.0,0.0,30,70,70,70,70,90,70,70,70,50,50,70
+116,lyon londres train,train paris london,4.96,0.06,90,390,1000,1300,1000,1300,1600,1600,1300,1000,880,1000
+117,tgv paris londres,train paris london,2.91,0.07,110,260,590,720,590,880,880,880,720,590,590,590
+118,eurostar voiture,train paris london,0.0,0.0,140,260,480,480,480,480,480,390,480,390,320,320
+119,aller retour londres paris,train paris london,2.38,0.0,10,10,50,50,30,50,50,30,30,20,20,50
+120,billet train pour londre,train paris london,0.0,0.0,10,10,10,10,20,10,10,10,20,10,10,10
+121,train paris londre pas cher,train paris london,57.14,0.0,10,20,70,50,30,40,70,50,40,30,30,20
+122,eurostar depart,train paris london,0.0,0.0,70,110,140,170,210,140,140,90,110,140,110,140
+123,paris londres par eurostar,train paris london,0.0,0.0,10,10,10,10,10,20,20,10,10,10,10,10
+124,aller a londre en train,train paris london,0.0,0.0,20,40,70,90,70,90,30,70,110,50,50,50
+125,train eurostar pas cher,train paris london,0.0,0.0,0,10,10,10,10,10,30,30,10,10,10,20
+126,voyage paris londre,train paris london,2.04,0.09,10,10,10,20,10,20,30,20,20,10,10,20
+127,billet train londre pas cher,train paris london,0.0,0.0,0,10,30,20,20,20,30,20,70,40,10,10
+128,aller retour eurostar,train paris london,0.0,0.0,10,10,40,50,40,50,70,40,50,50,40,40
+129,train de londres a paris,train paris london,0.0,0.0,10,20,20,10,20,10,10,10,10,10,10,10
+130,billet de train londres,train paris london,7.97,0.07,90,210,590,720,720,880,880,720,590,480,390,480
+131,billet train londres,train paris london,12.88,0.14,70,320,880,1000,880,1000,1000,880,720,590,590,590
+132,voyage a londre pas cher en train,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+133,paris london pas cher,train paris london,0.0,0.0,10,10,20,20,10,20,40,20,20,30,10,10
+134,acheter billet eurostar,train paris london,4.08,0.23,10,20,40,50,30,50,50,50,30,40,20,30
+135,train pour paris,train paris london,6.71,0.12,720,1000,1600,1600,2400,1600,1900,1600,1600,1600,1300,1300
+136,billet pour londre eurostar,train paris london,0.0,0.0,0,10,10,10,20,10,10,10,10,10,10,10
+137,eurostar depart paris,train paris london,0.0,0.0,10,10,30,40,30,40,50,50,30,40,40,70
+138,paris londres moins cher possible,train paris london,0.0,0.0,10,20,20,10,20,20,20,20,10,10,10,20
+139,week end londres eurostar,train paris london,0.0,0.0,0,20,110,260,110,140,320,140,70,40,140,170
+140,bus pas cher londres paris,train paris london,0.0,0.0,0,10,10,10,20,10,10,10,10,20,10,10
+141,billet de train paris londres,train paris london,9.23,0.06,110,390,880,1000,880,1000,1000,880,880,720,720,720
+142,londre en train pas cher,train paris london,0.0,0.04,10,10,10,10,10,10,20,20,20,10,10,10
+143,train pour aller a londre,train paris london,4.08,0.11,10,10,30,40,20,20,40,40,20,20,10,20
+144,eurostar trajet,train paris london,0.0,0.0,90,110,260,260,170,210,210,210,170,170,140,140
+145,billet paris londres eurostar,train paris london,8.16,0.13,10,40,70,140,170,170,110,170,170,90,50,140
+146,train angleterre,train paris london,0.52,0.0,210,480,880,1000,880,880,1000,880,880,1000,880,880
+147,réserver eurostar,train paris london,0.0,0.0,10,10,20,30,20,30,30,20,20,20,10,20
+148,paris londres paris eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,20,10,10,10,10,10
+149,train pas cher londres paris,train paris london,0.0,0.31,10,10,10,30,20,30,40,20,30,20,20,20
+150,eurostar londres bruxelles,train paris london,0.0,0.0,10,30,50,40,50,40,50,40,40,40,50,20
+151,reserver billet eurostar,train paris london,0.0,0.0,10,20,20,30,20,40,40,40,30,20,50,20
+152,train paris londres pas cher,train paris london,8.01,0.12,40,210,590,480,480,590,880,590,720,590,480,590
+153,tgv pour londre,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+154,train eurostar,train paris london,0.06,0.0,260,590,880,880,1300,880,1000,880,720,720,590,720
+155,tgv londres,train paris london,0.27,0.1,50,140,320,390,390,480,590,480,480,390,320,320
+156,ticket eurostar pas cher,train paris london,0.0,0.0,10,10,10,20,20,30,20,10,10,10,10,10
+157,train lille londres,train paris london,2.5,0.06,110,390,880,1300,1300,1300,1600,1300,1300,1000,880,880
+158,train londre pas cher,train paris london,0.0,0.0,0,10,30,30,20,40,30,30,20,20,10,20
+159,billet pour aller a londre,train paris london,0.0,0.0,10,10,10,10,20,20,10,10,10,10,10,10
+160,billet train,train paris london,24.82,0.17,6600,27100,49500,49500,40500,49500,60500,60500,60500,74000,60500,60500
+161,billet eurostar pas cher londres paris,train paris london,0.0,0.0,0,0,0,10,10,10,10,10,10,10,0,10
+162,achat billet sncf,train paris london,19.86,0.22,720,1900,3600,3600,2900,3600,4400,4400,4400,5400,4400,4400
+163,lille londres train,train paris london,3.6,0.05,140,260,880,1300,1300,1600,1900,1600,1600,1000,880,720
+164,billet train eurostar pas cher,train paris london,0.0,0.0,10,10,10,20,10,10,10,10,10,10,10,10
+165,sncf londres,train paris london,0.65,0.13,20,90,260,390,260,320,480,480,320,320,260,260
+166,billet bus londres paris,train paris london,0.0,0.0,10,10,10,10,20,10,20,20,40,30,20,20
+167,train londre paris pas cher,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,20,10,10,10
+168,transport londres paris,train paris london,45.24,0.79,10,20,10,10,10,10,10,10,10,10,10,10
+169,billet paris londres pas cher,train paris london,13.66,0.0,20,90,320,480,480,590,720,480,390,390,390,480
+170,train eurostar londres paris,train paris london,0.0,0.0,10,10,10,10,50,50,30,10,30,50,20,10
+171,billet train paris londres,train paris london,6.4,0.07,70,260,720,720,590,720,880,720,590,590,480,480
+172,voyage sncf eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,20,10,10,10,10,10
+173,billet de train pour londres,train paris london,24.26,0.09,50,110,390,390,480,480,590,480,390,390,260,320
+174,londres train,train paris london,2.21,0.09,70,210,590,720,590,720,880,720,590,480,390,480
+175,bruxelles londres train,train paris london,2.38,0.06,10,30,90,110,170,140,140,170,170,140,140,90
+176,billet de train lille paris,train paris london,36.54,0.13,110,320,590,480,480,720,880,720,590,590,590,480
+177,train londres pas cher,train paris london,0.0,0.0,10,30,140,140,140,140,170,140,90,90,70,90
+178,resa eurostar,train paris london,0.0,0.0,10,20,20,40,40,40,40,40,30,30,30,30
+179,billet de train paris,train paris london,13.54,0.11,210,480,880,1000,880,1000,1300,1000,1000,1000,880,880
+180,comparateur de billet de train,train paris london,44.9,0.21,30,140,390,260,210,320,390,390,590,590,590,390
+181,eurostar calais,train paris london,0.0,0.0,90,210,590,590,590,480,590,590,720,390,260,210
+182,bus paris londre pas cher,train paris london,0.0,0.0,10,10,10,10,40,30,20,10,20,10,10,10
+183,sncf paris londres,train paris london,1.97,0.0,30,110,320,390,260,390,390,480,320,390,320,320
+184,marseille londres train,train paris london,1.73,0.06,70,140,390,480,480,590,720,720,590,480,320,390
+185,aller retour paris londres,train paris london,1.86,0.07,50,140,390,390,320,480,590,390,390,260,260,320
+186,paris londres autocar,train paris london,0.0,0.0,0,10,10,10,10,0,10,10,10,10,10,10
+187,billet de train pour paris,train paris london,13.73,0.13,140,260,590,590,480,590,720,590,720,720,590,590
+188,gare eurostar londres,train paris london,0.0,0.0,110,320,720,880,590,720,720,720,590,480,390,590
+189,londre tgv,train paris london,0.0,0.0,10,10,20,10,10,30,30,40,30,20,10,20
+190,paris londres en tgv,train paris london,0.0,0.0,10,10,10,20,20,20,20,10,10,10,10,10
+191,shuttle londres,train paris london,0.0,0.0,50,210,480,590,590,590,590,480,390,260,260,880
+192,vol londres paris,train paris london,5.1,0.15,590,2400,1600,1600,1900,1900,1900,1600,1600,1600,1300,1300
+193,eurostar reservation londres paris,train paris london,0.0,0.51,20,10,10,10,10,10,10,10,0,10,10,10
+194,paris londre en tgv,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+195,lille londres eurostar,train paris london,0.32,0.0,40,210,390,590,390,390,390,390,390,480,320,390
+196,eurostar calais londres,train paris london,0.2,0.06,140,390,720,880,590,720,880,880,590,720,880,880
+197,londre train pas cher,train paris london,0.0,0.13,0,10,20,10,10,20,10,10,10,20,10,10
+198,billet de train eurostar londres paris,train paris london,0.0,0.0,10,0,10,10,10,10,10,10,10,10,10,10
+199,paris londre en bus pas cher,train paris london,0.0,0.0,10,0,10,10,10,10,10,10,10,0,10,10
+200,eurostar paris londres prix,train paris london,0.0,0.0,30,140,320,110,140,260,210,210,210,210,140,210
+201,train londre,train paris london,3.33,0.11,70,210,390,480,480,590,590,480,390,320,320,390
+202,train paris londre,train paris london,8.13,0.06,70,260,480,720,590,720,880,720,590,590,390,390
+203,billet londre pas cher train,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+204,paris londres trajet,train paris london,0.0,0.0,10,10,50,40,40,50,50,30,30,30,30,30
+205,billet de train paris lille,train paris london,33.29,0.1,110,320,480,390,390,590,720,590,590,590,480,480
+206,gare londre eurostar,train paris london,0.0,0.0,10,10,30,50,20,40,50,70,50,70,40,40
+207,reserver un train,train paris london,11.85,0.11,260,480,880,1000,1000,880,1000,880,720,880,880,720
+208,arrivées eurostar,train paris london,0.0,0.0,10,10,30,20,40,30,20,20,20,30,40,30
+209,paris londre par train,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+210,depart eurostar gare du nord,train paris london,0.0,0.0,10,10,50,40,50,50,50,40,50,40,50,50
+211,paris à londres en train,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+212,billet de train londres pas cher,train paris london,4.76,0.0,10,40,110,110,90,260,210,140,140,170,140,170
+213,voyage londre eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+214,paris londres prix,train paris london,0.0,0.0,30,50,70,70,70,70,70,50,50,40,40,40
+215,paris londre pas cher train,train paris london,0.0,0.0,0,10,10,10,20,20,20,10,10,10,10,20
+216,trajet paris londres,train paris london,0.54,0.17,50,110,260,320,320,320,390,320,260,260,260,260
+217,voyage paris londres,train paris london,4.65,0.14,40,110,170,170,170,210,210,170,170,140,110,140
+218,voyage a londre en train,train paris london,0.0,0.0,0,10,10,20,10,10,10,10,10,10,10,10
+219,sncf billet eurostar,train paris london,0.0,0.06,10,10,20,10,10,20,10,10,30,10,30,10
+220,eurostar gare paris,train paris london,0.0,0.0,10,30,40,50,30,50,70,70,70,50,50,50
+221,paris londres tarif,train paris london,0.0,0.0,0,10,10,10,10,10,20,20,10,20,10,20
+222,voyager en eurostar,train paris london,0.0,0.0,10,20,50,40,40,40,40,30,40,40,30,30
+223,paris londre billet,train paris london,0.0,0.0,10,10,10,20,20,30,20,30,20,20,10,30
+224,train marseille londres,train paris london,3.38,0.06,40,70,260,320,320,320,390,480,390,260,210,210
+225,paris londres billet train,train paris london,0.0,0.0,0,10,10,10,10,20,20,10,10,10,10,10
+226,thalys londres,train paris london,0.0,0.0,20,70,140,210,170,210,210,170,170,140,90,140
+227,londre billet,train paris london,8.65,0.31,40,50,140,140,140,170,140,110,90,90,70,70
+228,eurostar paris gare,train paris london,0.0,0.0,10,10,40,30,20,30,30,30,40,30,20,20
+229,eurostar prix billet,train paris london,0.0,0.0,10,10,10,10,10,20,10,10,10,10,10,10
+230,prix eurostar pas cher,train paris london,0.0,0.0,0,10,10,10,0,10,10,10,10,10,10,10
+231,distance londres paris,train paris london,0.0,0.0,110,90,110,110,110,110,110,110,110,110,90,90
+232,billet train londres pas cher,train paris london,7.43,0.14,20,50,210,170,210,260,320,210,110,170,210,210
+233,place eurostar,train paris london,0.0,0.0,10,10,40,50,40,40,30,20,40,40,30,30
+234,paris londres tgv pas cher,train paris london,0.0,0.0,0,10,10,20,10,40,20,30,20,30,20,10
+235,billet train paris londre pas cher,train paris london,0.0,0.0,0,0,10,20,10,10,20,10,10,10,10,10
+236,horaire train londres paris,train paris london,0.0,0.0,10,20,50,30,20,50,50,50,50,50,40,30
+237,billet pour londres pas cher,train paris london,17.65,0.13,20,90,170,110,140,320,320,170,110,140,140,140
+238,reserver eurostar pas cher,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+239,paris londres eurostar horaires,train paris london,0.0,0.0,10,20,30,30,20,30,40,30,20,20,20,20
+240,promos eurostar,train paris london,0.0,0.0,10,20,20,40,10,20,30,50,30,30,20,20
+241,eurostar paris londres paris,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+242,sncf londres paris,train paris london,3.06,0.06,10,40,40,90,50,70,110,90,50,90,70,50
+243,train calais londres,train paris london,2.62,0.06,50,140,320,390,390,390,480,390,390,320,260,260
+244,acheter un billet eurostar,train paris london,0.0,0.0,0,10,10,10,10,20,10,10,10,10,10,10
+245,billet londre eurostar,train paris london,0.0,0.0,10,10,20,30,20,30,20,20,10,10,10,10
+246,reserver billet tgv,train paris london,29.38,0.16,110,260,720,720,590,720,880,880,720,880,880,880
+247,réservation eurostar sncf,train paris london,0.0,0.0,10,10,10,30,20,10,20,20,10,20,20,20
+248,paris london train pas cher,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,20,20,10,10
+249,thalys bruxelles londres,train paris london,0.0,0.0,10,10,10,20,20,20,10,20,30,20,10,10
+250,paris londres transport,train paris london,0.0,0.0,0,10,20,10,10,10,10,10,10,10,10,10
+251,lyon londres eurostar,train paris london,0.32,0.06,40,110,170,260,260,260,320,210,140,110,110,110
+252,paris londre en train pas cher,train paris london,0.0,0.0,0,0,10,10,10,10,20,10,10,10,10,10
+253,billet eurostar aller retour,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+254,paris londres train aller retour,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+255,calais londres bus,train paris london,3.73,0.0,20,90,260,260,320,260,320,260,320,260,140,170
+256,billet aller retour londre,train paris london,9.52,0.14,10,10,10,10,10,20,10,10,10,10,10,10
+257,paris a londres en train,train paris london,0.0,0.0,10,0,10,10,10,0,0,10,0,10,10,10
+258,londre en eurostar,train paris london,0.0,0.0,10,10,20,10,10,10,20,10,20,10,10,10
+259,londres paris en train,train paris london,3.97,0.06,20,40,40,30,30,30,40,30,40,30,20,30
+260,prix eurostar paris londres,train paris london,1.22,0.06,50,50,320,390,210,210,390,320,210,170,260,320
+261,train eurostar horaires,train paris london,0.0,0.0,10,10,10,10,10,10,30,40,20,30,20,10
+262,paris londres en autocar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,0,10
+263,londres en train,train paris london,7.14,0.12,10,50,170,210,170,210,260,260,210,170,110,140
+264,train euro star,train paris london,0.0,0.0,10,10,10,10,10,10,20,10,10,10,10,10
+265,billet paris londres train,train paris london,30.16,0.05,10,50,70,110,90,110,140,110,70,90,90,50
+266,shuttle londres paris,train paris london,0.0,0.0,10,20,20,10,10,50,50,20,10,10,10,10
+267,eurostar paris paris,train paris london,0.0,0.0,10,10,10,10,20,10,10,10,20,30,20,10
+268,eurostar voyages sncf,train paris london,0.0,0.0,0,10,10,10,10,0,10,10,0,10,10,10
+269,paris londres promo,train paris london,0.0,0.0,0,10,20,30,20,10,30,30,10,20,20,20
+270,train londres bruxelles,train paris london,0.0,0.0,10,20,50,40,30,50,20,40,30,70,20,30
+271,paris londres train hotel pas cher,train paris london,0.0,0.0,0,10,10,10,20,30,20,20,10,10,10,10
+272,reserver un billet eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+273,paris manchester train,train paris london,2.3,0.1,30,170,320,320,260,390,480,480,480,480,390,480
+274,tarif paris londres,train paris london,0.0,0.0,10,20,50,50,50,40,50,40,40,40,40,30
+275,resa train,train paris london,17.86,0.12,90,260,590,720,590,590,880,720,590,720,720,590
+276,eurostar paris londres pas cher,train paris london,0.0,0.0,10,50,110,210,110,140,260,170,110,110,70,50
+277,billet train paris lille,train paris london,25.32,0.14,40,210,390,320,260,390,480,590,480,390,480,390
+278,traversée eurostar,train paris london,0.0,0.0,10,10,30,40,20,20,30,20,40,20,20,20
+279,paris londres pas cher en train,train paris london,0.0,0.06,0,10,10,10,10,0,10,10,30,10,10,10
+280,ticket tgv,train paris london,7.14,0.1,40,110,210,260,140,210,210,170,260,260,210,170
+281,autocar londres paris,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,20,10,10
+282,train pas cher londres,train paris london,7.14,0.11,10,20,70,110,90,110,170,90,90,90,110,110
+283,voyage londre train,train paris london,0.0,0.0,0,10,10,10,10,10,20,10,10,10,10,10
+284,eurostar voyage,train paris london,0.0,0.0,10,20,10,10,10,10,10,10,10,10,10,10
+285,eurostar reservation sncf,train paris london,0.0,0.0,0,10,10,10,10,50,10,40,20,10,30,30
+286,tarif eurostar paris londres,train paris london,2.12,1.4,30,50,110,140,170,260,140,170,170,170,70,170
+287,sncf london paris,train paris london,0.0,0.0,0,0,10,0,10,10,10,10,10,10,0,10
+288,train a londre,train paris london,0.0,0.0,10,10,20,20,20,20,20,30,20,10,10,10
+289,paris londre pas cher bus,train paris london,0.0,0.0,0,0,10,10,10,0,10,10,10,10,10,10
+290,eurostar aller retour,train paris london,0.0,0.0,10,30,40,50,30,30,30,50,50,50,30,50
+291,voyage sncf londre,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+292,voyage londres paris,train paris london,10.05,0.0,30,50,20,10,30,40,30,10,10,30,10,20
+293,prix eurostar londres paris,train paris london,0.0,0.0,20,50,30,10,50,90,10,20,40,70,10,10
+294,eurostar londres pas cher,train paris london,0.0,0.0,0,10,20,20,50,20,20,20,10,20,10,10
+295,billetterie eurostar gare du nord,train paris london,0.0,0.0,0,10,20,30,30,20,10,20,10,20,20,10
+296,paris londres par le train,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+297,londres paris en bus,train paris london,0.0,0.0,10,20,40,30,50,40,40,20,30,40,20,40
+298,billet aller retour eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+299,billet eurostar paris londres,train paris london,2.24,0.0,50,260,720,260,480,480,590,320,210,210,170,140
+300,train pour londres pas cher,train paris london,0.0,0.0,10,40,170,110,70,140,110,90,110,50,50,40
+301,paris londres voyage,train paris london,0.0,0.0,10,10,0,10,10,10,10,10,10,10,10,10
+302,départ eurostar paris,train paris london,0.0,0.0,10,20,50,30,140,50,70,50,30,40,50,30
+303,train entre londres et paris,train paris london,0.0,0.0,10,10,10,0,10,10,10,10,10,10,0,10
+304,tgv bruxelles londres,train paris london,0.0,0.0,10,10,10,20,10,10,30,20,10,10,10,10
+305,paris londres discount,train paris london,0.0,0.0,0,0,0,10,10,10,10,10,0,10,0,0
+306,billetterie eurostar,train paris london,0.0,0.0,10,10,20,30,20,20,10,20,10,20,20,10
+307,billet de train paris londres pas cher,train paris london,14.29,0.0,10,40,50,90,110,140,170,170,170,170,110,140
+308,prix billet eurostar pas cher,train paris london,0.0,0.0,0,0,10,0,10,0,10,10,10,10,10,10
+309,gare paris eurostar,train paris london,0.0,0.0,20,10,20,20,20,20,20,30,20,20,20,20
+310,billet eurostar sncf,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+311,eurostar reservation billets,train paris london,0.0,0.0,10,20,40,90,40,10,30,40,10,10,10,10
+312,londre pas cher train,train paris london,0.0,0.0,10,10,10,10,20,10,10,10,10,10,10,10
+313,comment aller à londres,train paris london,0.75,0.0,90,140,390,390,390,390,390,320,210,170,140,170
+314,sncf reservation eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+315,londres billet,train paris london,7.98,0.05,30,110,260,320,320,320,390,260,210,210,140,170
+316,euro star billet,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+317,eurostar pas cher londres paris,train paris london,0.0,0.0,10,10,10,10,10,10,40,10,10,20,40,50
+318,shuttle calais londres,train paris london,4.08,0.0,10,70,260,110,170,170,480,110,90,140,320,140
+319,bus de londres à paris,train paris london,0.0,0.0,0,10,0,10,10,0,0,10,10,10,10,10
+320,eurostar quelle gare,train paris london,0.0,0.0,10,10,40,20,30,30,30,30,30,40,30,30
+321,londre gare eurostar,train paris london,0.0,0.0,10,10,10,10,10,20,10,10,10,10,10,10
+322,prix transport londres,train paris london,0.0,0.0,30,110,320,390,260,320,320,260,320,260,210,260
+323,paris londres eurostar tarif,train paris london,7.14,0.0,10,10,10,10,10,10,10,10,10,10,20,10
+324,londres paris train pas cher,train paris london,0.0,0.0,10,20,20,10,10,30,40,20,20,20,20,10
+325,billet eurostar paris londres aller retour,train paris london,0.0,0.06,0,10,20,10,10,30,20,30,20,40,30,30
+326,paris londre pas cher eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+327,trajet londres,train paris london,2.86,0.14,20,50,110,140,170,170,170,110,110,140,90,110
+328,quel billet eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,0,0,10,0,10
+329,train paris belgique,train paris london,12.7,0.12,50,170,260,260,210,260,320,210,210,260,260,210
+330,le train eurostar,train paris london,0.0,0.0,10,20,10,10,20,10,20,20,10,10,10,10
+331,prix train eurostar,train paris london,0.0,0.0,10,10,20,10,40,10,20,10,10,10,10,20
+332,billet train paris londres pas cher,train paris london,28.57,0.06,10,30,90,70,110,90,170,210,140,140,110,140
+333,billet angleterre,train paris london,0.95,0.25,140,210,390,390,390,390,480,480,320,320,320,390
+334,eurostar londre,train paris london,0.55,0.06,30,140,320,320,390,260,210,170,140,140,140,140
+335,transport eurostar,train paris london,0.0,0.0,10,20,20,20,90,20,20,10,10,10,10,10
+336,eurostar achat billet,train paris london,0.0,0.0,0,10,10,10,10,10,10,20,10,10,10,30
+337,paris angleterre eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+338,eurostar billet de train,train paris london,0.0,0.0,10,30,30,30,10,10,10,10,10,10,10,10
+339,eurotunnel reservation,train paris london,0.0,0.0,20,140,140,170,480,210,260,140,320,260,260,320
+340,aller à londres en train,train paris london,1.26,0.0,30,70,170,260,170,260,320,320,210,210,170,210
+341,londres paris tgv,train paris london,1.43,0.0,10,30,30,30,30,30,40,20,20,20,10,20
+342,prix paris londres eurostar,train paris london,1.43,0.0,10,10,30,50,50,50,50,40,50,70,30,50
+343,billet eurostar prix,train paris london,1.59,0.0,10,10,30,20,20,20,40,20,30,30,20,20
+344,trajet eurostar londres paris,train paris london,0.0,0.0,10,10,20,70,30,50,40,70,50,50,20,30
+345,gare londres eurostar,train paris london,0.0,0.0,50,110,390,480,260,320,390,390,390,170,210,320
+346,prix du billet eurostar,train paris london,0.0,0.0,10,10,20,10,10,10,10,10,10,10,10,10
+347,paris angleterre en train,train paris london,0.0,0.0,10,10,20,10,10,30,10,10,10,10,10,10
+348,transport paris londres,train paris london,35.12,2.07,20,40,70,90,70,90,90,50,50,50,70,50
+349,billet eurostar londres,train paris london,0.89,0.06,30,70,140,480,390,390,390,480,390,260,170,260
+350,eurostar réserver,train paris london,0.0,0.0,10,10,20,10,10,10,10,10,10,10,10,10
+351,réservation billet eurostar londres paris,train paris london,35.71,0.49,10,10,10,10,10,10,10,10,10,10,10,10
+352,eurostar reservation en ligne,train paris london,0.0,0.0,10,30,10,10,0,50,10,0,10,10,0,0
+353,horaire train eurostar,train paris london,0.0,0.0,10,20,20,50,50,40,40,40,40,50,50,30
+354,eurostar tgv london paris,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,0,0,10,10
+355,paris londres train horaires,train paris london,0.0,0.0,10,10,20,10,10,20,10,10,10,10,10,10
+356,kelbillet paris londres,train paris london,20.0,0.25,10,50,170,210,140,70,170,260,170,110,260,320
+357,un billet de train,train paris london,10.15,0.27,110,140,210,210,260,210,210,320,260,260,320,260
+358,tgv lyon paris horaires,train paris london,2.92,0.06,140,590,720,590,590,880,880,880,590,720,720,480
+359,trajet londres pas cher,train paris london,7.14,0.17,10,10,10,30,30,30,30,20,20,20,10,10
+360,paris londres avion ou train,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+361,billet sncf eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,0
+362,gare de londres eurostar,train paris london,0.0,0.0,50,70,140,260,260,260,260,140,170,210,90,140
+363,paris londres train low cost,train paris london,0.0,0.0,0,10,10,10,10,10,10,0,10,10,10,10
+364,aller retour londre eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+365,train paris londres eurostar,train paris london,0.95,0.06,10,40,70,110,140,70,110,70,110,70,110,50
+366,paris londres en eurostar pas cher,train paris london,0.0,0.0,0,10,10,0,10,10,10,10,10,0,10,10
+367,train france angleterre,train paris london,0.33,0.06,170,170,260,260,260,320,390,260,260,260,210,210
+368,eurostar londres lille,train paris london,3.74,0.06,40,170,170,170,260,170,260,210,210,170,170,140
+369,eurostar prix aller retour,train paris london,0.0,0.0,10,10,20,10,10,10,10,10,10,10,10,20
+370,eurostar ticket pas cher,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+371,plan train eurostar,train paris london,0.0,0.0,0,10,20,20,20,20,20,20,10,10,20,10
+372,billet de train pas cher londres,train paris london,42.86,0.26,10,20,90,50,70,70,90,50,70,70,50,50
+373,londres pas cher train,train paris london,0.0,0.0,0,30,50,20,30,90,70,70,30,30,50,40
+374,voyage londres train,train paris london,0.0,0.0,10,30,170,210,110,90,70,170,170,110,70,90
+375,eurostar sncf gare du nord,train paris london,0.0,0.0,10,10,10,0,10,10,10,10,10,10,10,10
+376,paris londres train sncf,train paris london,0.0,0.0,0,10,10,20,10,10,20,10,10,20,10,20
+377,dernier eurostar londres paris,train paris london,0.0,0.0,0,10,10,10,0,10,10,10,10,10,10,10
+378,billet aller retour londres,train paris london,12.93,0.06,20,50,140,140,140,140,110,110,140,110,90,90
+379,prix pour aller a londre,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+380,eurostar ligne,train paris london,0.0,0.0,30,30,40,40,40,30,40,40,30,30,20,30
+381,prix tgv londres paris,train paris london,0.0,0.0,0,10,10,0,10,10,10,10,10,10,0,10
+382,paris angleterre,train paris london,0.32,0.0,90,170,260,260,320,320,390,260,320,320,390,320
+383,billet train pas cher londres,train paris london,7.14,0.09,10,10,70,50,30,50,70,40,40,50,30,50
+384,londre eurostar pas cher,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+385,billet de train londre,train paris london,8.57,0.18,10,50,140,170,170,210,210,140,110,90,70,90
+386,euro star prix,train paris london,7.14,0.0,10,10,10,20,10,20,20,20,30,20,20,10
+387,billet pas cher paris londres,train paris london,14.29,0.08,10,40,110,110,140,140,210,110,140,140,110,170
+388,billet eurostar moins cher,train paris london,23.81,0.0,10,20,90,50,40,40,70,50,40,90,40,40
+389,paris londres gare,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+390,parcours eurostar,train paris london,0.0,0.0,10,10,20,10,10,20,20,10,40,20,10,20
+391,reservation train eurostar,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+392,gare de depart eurostar,train paris london,0.0,0.0,10,10,20,20,20,20,20,10,20,20,10,10
+393,sncf tgv france,train paris london,9.52,0.0,10,10,30,20,40,40,40,50,30,30,30,30
+394,paris london sncf,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+395,billet de train pas cher pour londres,train paris london,0.0,0.06,0,10,30,30,20,30,40,30,40,40,40,30
+396,londre par train,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+397,aller retour eurostar pas cher,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+398,train pas cher paris londres,train paris london,2.04,0.0,10,40,110,90,70,140,170,90,90,70,30,70
+399,strasbourg paris sncf,train paris london,4.2,0.06,20,70,90,70,110,90,140,110,140,140,170,170
+400,paris londres bus sncf,train paris london,0.0,0.0,0,0,10,0,0,10,10,0,10,10,10,0
+401,tarif eurostar londres paris,train paris london,0.0,0.0,10,10,10,10,10,10,70,30,20,10,0,10
+402,distance paris londres,train paris london,0.0,0.0,390,390,480,480,590,480,590,480,480,480,390,480
+403,paris londres paris,train paris london,0.0,0.0,0,10,20,20,20,20,30,10,20,10,10,10
+404,reservation sncf eurostar,train paris london,0.0,0.0,10,0,10,10,10,10,10,10,10,10,10,10
+405,aller retour londre,train paris london,0.0,0.0,10,30,70,70,90,90,110,70,70,70,70,50
+406,londre en tgv,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,0
+407,billet londres eurostar,train paris london,3.57,0.06,10,30,110,140,140,110,140,50,110,70,70,110
+408,trajet paris londres pas cher,train paris london,33.33,0.12,10,10,50,50,40,70,90,70,50,40,30,40
+409,eurostar de paris,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+410,train vers londres,train paris london,0.89,0.0,20,30,40,50,50,50,90,40,50,30,30,30
+411,eurostar paris londres horaires,train paris london,4.76,0.0,10,50,210,170,170,140,260,260,210,210,210,140
+412,paris londres train et hotel,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+413,réserver billet de train sncf,train paris london,46.81,0.24,110,390,880,880,880,1000,1300,1300,1000,1000,1000,880
+414,billet de train angleterre,train paris london,15.04,0.37,20,50,90,90,90,110,110,140,110,140,70,90
+415,reserver un billet de train sncf,train paris london,30.34,0.24,90,170,390,390,590,720,880,880,720,720,480,480
+416,voyage a londre eurostar,train paris london,0.0,0.0,0,0,0,0,0,0,10,0,0,10,0,0
+417,itineraire eurostar,train paris london,0.0,0.0,10,10,40,30,30,30,30,30,30,20,20,20
+418,sncf voyage eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,20,10,10
+419,thalys paris londres,train paris london,0.0,0.0,10,30,90,170,110,140,210,140,110,140,90,110
+420,gare du nord départ eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,20,10,10,10,10,10
+421,billet de train pour londre,train paris london,22.86,0.16,10,20,50,70,70,70,70,50,70,50,50,40
+422,train pour aller a londres,train paris london,1.5,0.11,50,90,170,260,210,260,260,170,140,140,90,110
+423,prix paris londres,train paris london,1.68,0.03,20,20,50,70,110,70,90,50,70,50,30,50
+424,eurostar ou le prendre,train paris london,0.0,0.0,10,10,10,20,10,10,10,10,10,10,10,10
+425,paris angleterre tgv,train paris london,0.0,0.0,0,10,10,10,10,20,10,10,10,10,10,20
+426,londres en eurostar,train paris london,0.0,0.0,10,10,40,40,40,50,50,40,30,20,30,30
+427,billet train pour londres,train paris london,7.94,0.09,10,30,70,90,70,90,110,90,90,70,70,70
+428,prix billet eurostar londres paris,train paris london,0.0,0.0,0,10,10,10,10,0,10,0,10,10,10,10
+429,sncf france tgv,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,20,10,10
+430,sncf train eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,0,10,10
+431,voyage londres eurostar,train paris london,0.0,0.0,10,30,30,70,50,110,70,50,50,40,30,70
+432,paris londres tgv prix,train paris london,4.76,0.06,10,10,20,40,30,20,10,20,20,20,10,10
+433,prendre eurostar gare du nord,train paris london,0.0,0.0,10,10,10,10,10,10,20,20,10,10,10,20
+434,ticket londres paris,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,0
+435,billet train angleterre,train paris london,25.4,0.45,10,30,90,70,70,90,110,110,90,90,70,90
+436,billet de train pas cher paris londres,train paris london,0.0,0.26,0,10,30,20,20,50,50,30,40,40,40,40
+437,ticket train eurostar,train paris london,0.0,0.0,0,0,0,10,10,10,10,0,0,10,0,10
+438,eurostar itinéraire,train paris london,0.0,0.0,10,10,20,20,20,20,10,10,10,10,10,10
+439,car londres paris,train paris london,0.0,0.0,10,30,70,70,90,70,90,50,90,70,50,50
+440,acheter billet pas cher eurostar,train paris london,0.0,0.0,0,0,10,0,10,10,10,10,10,10,10,0
+441,billet de train pour londres pas cher,train paris london,10.2,0.21,10,10,30,50,50,50,90,70,70,70,40,50
+442,billet pour eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+443,prix eurostar londres,train paris london,0.0,0.0,10,10,40,40,110,90,30,20,20,50,30,10
+444,tarif eurostar pas cher,train paris london,0.0,0.0,0,10,0,10,10,0,0,0,10,10,10,10
+445,londres train pas cher,train paris london,8.93,0.24,10,10,40,40,20,70,90,40,30,20,20,20
+446,londres sncf,train paris london,0.0,0.0,10,10,50,70,30,50,70,50,50,30,50,50
+447,euro star londres,train paris london,0.0,0.0,20,70,110,390,170,70,90,320,50,30,90,210
+448,trajet eurostar carte,train paris london,0.0,0.0,20,70,90,30,50,30,70,50,90,110,50,40
+449,prix billet eurostar paris londres,train paris london,5.95,0.06,10,20,10,40,50,70,70,70,30,40,40,50
+450,gare de londre,train paris london,0.0,0.0,260,260,390,590,320,480,590,480,390,320,320,260
+451,billet londres pas cher train,train paris london,0.0,0.0,10,10,10,20,20,20,20,20,10,10,20,20
+452,eurostar pour londres,train paris london,0.57,0.0,20,40,40,30,50,50,50,30,50,50,50,70
+453,eurostar billet train,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,0,10,10,10
+454,londres a paris,train paris london,0.0,0.0,10,20,20,30,30,40,40,30,30,40,40,30
+455,enregistrement eurostar,train paris london,0.0,0.0,10,90,320,260,210,320,390,320,260,320,320,320
+456,paris londres eurostar sncf,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+457,billet train pas cher pour londre,train paris london,0.0,0.0,0,0,0,0,0,10,10,0,0,10,0,0
+458,eurostar gare londres,train paris london,0.0,0.0,10,40,90,110,90,90,110,90,110,90,70,90
+459,paris londres ar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,0,10
+460,eurostar réservations en ligne,train paris london,0.0,0.0,0,0,0,0,0,0,0,0,10,0,0,10
+461,prix paris londre,train paris london,0.0,0.0,10,10,10,10,10,10,20,10,10,10,10,10
+462,ou acheter des billets eurostar,train paris london,0.0,0.0,0,10,10,20,10,10,10,10,10,10,10,10
+463,trajet eurostar paris londres,train paris london,0.0,0.0,50,90,170,210,260,210,110,70,140,140,110,110
+464,shuttle paris londres,train paris london,0.0,0.0,40,50,260,210,320,140,140,110,140,170,110,70
+465,arrivée eurostar,train paris london,0.0,0.0,20,140,320,320,260,210,320,390,320,390,320,320
+466,billet de train pour londres moins cher,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+467,eurostar paris londres aller retour,train paris london,0.0,0.0,10,10,30,30,10,10,40,20,30,30,20,10
+468,londres en train pas cher,train paris london,7.14,0.11,10,10,30,10,20,50,50,40,10,10,10,10
+469,tarif eurostar paris londres aller retour,train paris london,0.0,0.0,10,10,10,30,10,10,10,30,10,10,20,20
+470,tgv paris londres pas cher,train paris london,0.0,0.0,10,10,40,10,20,30,10,10,30,30,40,40
+471,reservation eurostar londres paris,train paris london,21.43,0.06,10,10,10,10,10,0,10,0,10,20,30,20
+472,billet de train pour londres aller retour pas cher,train paris london,0.0,0.0,10,10,10,20,10,20,20,20,10,30,30,10
+473,billet paris londres eurostar pas cher,train paris london,0.0,0.0,10,10,20,20,20,20,50,40,20,30,20,30
+474,reservation billet train eurostar,train paris london,0.0,0.0,0,0,0,10,10,10,10,0,10,10,0,0
+475,tgv strasbourg paris horaires,train paris london,1.43,0.05,40,260,320,320,590,390,390,320,320,390,480,320
+476,voyage eurostar londres,train paris london,4.76,0.0,10,30,20,20,20,20,10,10,20,10,10,10
+477,eurostar londre gare,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,0,10,10
+478,billet train pas cher londres paris,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+479,tgv pour londres,train paris london,0.0,0.0,10,20,40,40,70,50,50,40,50,40,30,40
+480,eurotunnel paris londres,train paris london,0.0,0.0,20,70,30,40,70,170,70,40,70,70,50,40
+481,train pas cher pour londres,train paris london,0.0,0.0,10,10,30,30,20,40,50,40,30,30,20,40
+482,eurostar arrivée,train paris london,0.0,0.0,30,140,320,260,260,260,260,320,260,320,260,210
+483,paris londres prix eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+484,londres tgv,train paris london,0.0,0.0,10,20,40,50,50,70,90,50,50,40,20,40
+485,euro star tgv,train paris london,0.0,0.0,0,10,0,10,0,10,10,10,10,0,10,10
+486,prix billet eurostar aller retour,train paris london,0.0,0.0,10,10,20,10,10,10,10,0,10,10,10,10
+487,tarif paris londres eurostar,train paris london,0.0,0.0,10,10,30,40,30,70,50,40,40,30,30,50
+488,billet de train londre pas cher,train paris london,0.0,0.0,0,10,10,20,10,20,20,20,20,20,10,10
+489,prix aller retour eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+490,quelle gare pour eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+491,paris londres train plus hotel,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+492,horaires train eurostar londres paris,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+493,billet pour londres eurostar,train paris london,0.0,0.06,0,10,10,20,20,20,30,20,70,50,50,20
+494,billet london,train paris london,8.57,0.1,10,10,30,40,40,20,30,30,30,30,10,20
+495,aller retour londres eurostar,train paris london,0.0,0.0,10,10,20,20,20,10,20,20,20,30,20,20
+496,transport paris londres pas cher,train paris london,0.0,0.78,0,10,10,20,20,40,30,30,20,30,20,10
+497,eurostar paris londre pas cher,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+498,eurostar paris a londres,train paris london,0.0,0.0,10,20,20,30,20,10,30,30,10,20,10,10
+499,prix train londres,train paris london,0.0,0.0,10,30,70,70,70,50,70,50,40,40,40,40
+500,eurostar pas cher aller retour,train paris london,0.0,0.0,0,0,0,10,0,10,0,0,0,0,10,10
+501,eurostar londres gare,train paris london,0.0,0.0,10,30,40,40,30,30,40,30,40,30,30,30
+502,gare depart eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,20,10,20,10,10,20
+503,prix train paris londres,train paris london,2.32,0.06,40,30,90,90,90,90,90,70,90,70,70,90
+504,billet de train eurostar paris londres pas cher,train paris london,0.0,0.19,0,10,20,20,40,20,20,40,20,40,40,30
+505,billet pas cher londres train,train paris london,0.0,0.0,10,10,10,10,10,20,20,20,10,20,20,10
+506,bus londre pas cher,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+507,billet de train paris londre pas cher,train paris london,0.0,0.0,0,10,10,20,10,20,90,70,40,20,10,10
+508,paris londres eurostar temps,train paris london,0.13,0.0,110,170,390,390,210,260,390,480,720,480,320,320
+509,billet tgv paris londres pas cher,train paris london,0.0,0.1,10,0,10,10,20,20,20,20,10,10,10,10
+510,aller a londres en train,train paris london,0.0,0.0,10,10,30,40,30,30,50,20,30,20,20,20
+511,tarif eurostar londres,train paris london,0.0,0.0,10,10,20,40,10,20,50,110,70,40,30,20
+512,bus sncf londres paris,train paris london,0.0,0.0,0,0,0,0,10,0,0,0,0,0,0,0
+513,site eurostar,train paris london,1.19,0.18,10,40,30,30,50,30,40,30,30,30,20,30
+514,achat eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,0,10,10,10,10
+515,trajet paris londres eurostar,train paris london,0.0,0.0,10,10,50,90,90,90,90,50,90,110,50,90
+516,eurostar parcours,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+517,train à londres,train paris london,0.0,0.0,10,20,40,70,40,50,50,20,40,30,40,30
+518,sncf eurostar horaires,train paris london,0.0,0.0,10,10,10,10,10,10,20,10,10,10,10,10
+519,gare pour eurostar,train paris london,0.0,0.0,10,0,10,10,10,10,10,10,10,10,10,10
+520,paris londres 29 euros,train paris london,0.0,0.0,0,10,10,10,0,0,10,10,10,10,10,0
+521,aller en angleterre en train,train paris london,0.0,0.0,10,10,50,50,40,40,50,30,30,50,20,30
+522,eurostar gare du nord plan,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,20,10,10,10
+523,paris gare eurostar,train paris london,0.0,0.0,0,50,10,10,0,10,10,10,10,10,10,10
+524,sncf londre,train paris london,0.0,0.0,10,10,20,30,20,40,30,20,20,30,10,20
+525,train de paris a londres,train paris london,8.57,0.06,10,20,30,30,40,40,40,30,40,70,20,50
+526,billet aller retour paris londres,train paris london,0.0,0.0,10,10,40,20,20,30,40,20,40,20,10,10
+527,billet londres paris eurostar,train paris london,3.57,0.06,10,10,10,10,10,10,10,10,10,10,10,10
+528,prix aller retour londres,train paris london,0.0,0.0,10,10,20,30,40,40,40,40,40,30,30,30
+529,paris londres pas cher tgv,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+530,tgv londres pas cher,train paris london,0.0,0.0,0,10,10,20,10,10,20,30,30,10,10,20
+531,sncf eurostar reservation,train paris london,0.0,0.0,0,10,0,10,0,10,10,10,0,10,0,10
+532,aller retour paris londres eurostar,train paris london,19.05,0.0,10,10,20,30,30,20,20,30,20,10,20,20
+533,eurostar paris quelle gare,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+534,train londres paris eurostar,train paris london,0.0,0.0,10,20,10,10,10,20,10,10,10,20,20,10
+535,paris londres cheap,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+536,voyage à londres eurostar,train paris london,0.0,0.0,10,0,10,10,10,10,10,10,10,10,0,10
+537,train a londres,train paris london,1.43,0.0,10,20,30,30,30,40,40,30,20,20,20,10
+538,prix des billets eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,0,10,10
+539,horaires arrivées eurostar,train paris london,0.0,0.0,0,0,10,10,10,10,0,10,10,10,0,10
+540,train france londres,train paris london,1.59,0.05,30,40,70,70,70,70,90,70,70,50,40,50
+541,tarif train paris londres,train paris london,0.0,0.0,10,10,30,40,20,30,50,20,30,20,20,30
+542,prix billet londres,train paris london,0.0,0.0,10,20,50,40,50,40,40,30,40,30,40,30
+543,vitesse eurostar,train paris london,0.0,0.0,70,110,260,210,170,210,260,170,320,210,210,260
+544,billet eurostar londres pas cher,train paris london,0.0,0.0,10,10,10,70,30,30,40,30,40,20,10,10
+545,billet londres train,train paris london,25.71,0.22,10,20,40,40,50,50,40,30,20,30,30,40
+546,prix ticket eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+547,billet tgv paris londres,train paris london,0.0,0.06,10,10,40,30,30,40,40,30,30,30,40,30
+548,train paris londres aller retour,train paris london,0.0,0.0,10,10,20,10,70,10,30,30,20,30,10,30
+549,eurostar billetterie,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,0
+550,prix billet londre,train paris london,0.0,0.29,10,10,10,20,20,10,10,10,10,10,10,10
+551,gare depart eurostar paris,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+552,prix billet paris londres,train paris london,0.0,0.0,10,10,20,20,20,20,40,20,30,30,20,20
+553,londres thalys,train paris london,0.0,0.0,0,10,20,20,20,20,20,30,10,10,10,20
+554,aller retour londres train,train paris london,1.79,0.0,10,30,20,90,90,140,70,70,70,50,20,30
+555,eurostar à paris,train paris london,0.0,0.0,0,10,10,10,10,10,10,0,10,10,10,10
+556,sncf eurostar paris londres,train paris london,0.0,0.0,10,10,10,10,50,70,50,10,10,20,20,10
+557,gare du nord londres,train paris london,2.2,0.06,10,50,110,90,90,140,170,170,140,90,110,90
+558,acheter billet eurostar pas cher,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,0,10,0,10
+559,train eurostar paris londres,train paris london,3.57,0.0,20,50,110,140,140,50,90,70,70,50,40,50
+560,londre pas cher eurostar,train paris london,0.0,0.0,0,10,10,10,20,10,10,10,10,10,10,10
+561,tarif eurostar aller retour,train paris london,0.0,0.0,0,10,0,10,10,10,20,10,10,10,10,10
+562,billet train pour londres pas cher,train paris london,0.0,0.13,10,10,20,30,10,40,20,30,20,20,20,20
+563,trajet paris londre,train paris london,0.0,0.0,10,20,30,40,30,30,40,30,20,30,30,20
+564,ticket eurostar paris londres,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,20,10,10,10
+565,tarif train londres,train paris london,0.0,0.0,10,10,40,50,30,40,50,30,30,40,20,40
+566,temps de trajet paris londres,train paris london,0.0,0.0,20,30,70,70,40,70,50,40,50,50,40,50
+567,eurostar français,train paris london,0.0,0.0,10,10,10,10,10,10,0,10,10,10,10,10
+568,acheter billet train angleterre,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,20,10
+569,eurostar angleterre,train paris london,0.0,0.0,30,110,50,90,90,110,70,90,140,140,90,110
+570,aller à londre en train,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+571,angleterre train,train paris london,0.0,0.0,10,40,70,70,70,70,70,70,50,50,50,50
+572,sncf billet londres,train paris london,0.0,0.0,10,10,20,20,20,20,10,20,30,20,30,10
+573,sncf eurostar tarif,train paris london,0.0,0.0,0,10,10,0,0,0,0,0,0,0,10,0
+574,londres par eurostar,train paris london,0.0,0.0,10,10,20,10,10,10,10,20,10,10,10,20
+575,eurostar prix paris londres,train paris london,0.0,0.0,10,10,10,70,40,20,10,20,20,40,30,30
+576,eurostar horaires trains,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,0,10,10,10
+577,tgv angleterre,train paris london,0.0,0.0,50,70,210,90,70,70,90,70,70,50,50,50
+578,train pour angleterre,train paris london,0.0,0.0,20,30,40,50,70,40,50,40,50,50,30,40
+579,tarif euro star,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+580,billet train pas cher paris londres,train paris london,0.0,0.12,10,30,20,20,10,20,40,20,20,30,20,30
+581,billet tgv londres,train paris london,0.0,0.0,10,20,20,40,50,50,40,30,20,40,30,20
+582,billet pour londres pas cher train,train paris london,0.0,0.0,0,10,20,20,10,10,0,0,10,10,10,10
+583,londres billet eurostar,train paris london,14.29,0.03,10,10,30,30,40,30,50,20,10,20,10,10
+584,prix paris londres en eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+585,sncf paris londres promo,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,20,20,20
+586,paris londres train durée,train paris london,0.0,0.0,40,90,210,210,210,170,260,210,110,110,90,90
+587,durée trajet paris londres eurostar,train paris london,0.0,0.0,20,50,170,170,140,110,140,110,170,140,110,110
+588,ticket pour londre,train paris london,0.0,0.0,0,10,0,10,10,10,10,10,10,10,0,10
+589,prix billet train paris londres,train paris london,5.71,0.14,10,10,20,30,20,20,20,30,20,10,10,20
+590,eurostar arrivée avant,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+591,billet transport londres,train paris london,0.0,0.0,0,10,40,50,20,30,50,30,10,20,20,20
+592,trajet eurostar bruxelles londres,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,0,10
+593,train angleterre france,train paris london,0.26,0.0,50,70,110,110,70,50,140,140,90,110,50,90
+594,france londre,train paris london,0.0,0.0,20,50,40,50,50,50,70,40,20,40,20,30
+595,train de londres,train paris london,0.0,0.0,40,50,30,50,40,40,50,40,30,10,10,20
+596,partir a londres en train,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+597,billet paris londres pas cher train,train paris london,0.0,0.0,10,10,10,10,10,20,20,40,30,10,20,10
+598,train paris londres promo,train paris london,0.0,0.0,0,10,10,10,10,10,30,10,10,10,10,10
+599,l eurostar,train paris london,0.0,0.0,390,480,590,880,720,720,720,480,480,390,320,720
+600,londres billet de train,train paris london,9.52,0.0,10,20,90,40,40,50,70,30,30,30,10,20
+601,eurostar londres paris horaires,train paris london,0.0,0.0,50,210,260,170,170,320,320,170,170,320,320,170
+602,train pour aller a paris,train paris london,6.9,0.1,30,30,50,40,70,70,70,70,50,40,40,30
+603,voyage train londres,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+604,billets sncf londres pas cher,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+605,durée trajet paris londres,train paris london,0.0,0.0,10,40,90,110,40,50,90,50,70,50,40,40
+606,promo londres paris,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+607,ticket paris londres,train paris london,21.43,0.0,10,10,20,30,30,20,30,30,20,20,30,20
+608,durée paris londres eurostar,train paris london,0.0,0.0,30,50,170,170,140,140,260,170,140,170,140,170
+609,prix aller retour paris londres,train paris london,0.0,0.0,10,10,30,20,20,20,10,10,10,10,10,20
+610,carte trajet eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,20,10,10,10,0,10
+611,voyage à londres en train,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+612,reservation eurostar paris londres,train paris london,0.0,0.08,10,10,10,10,10,0,10,10,10,10,10,10
+613,prix du billet eurostar paris londres,train paris london,0.0,0.0,10,10,10,20,10,10,20,10,30,30,20,20
+614,gare du nord londres eurostar,train paris london,2.86,0.06,10,10,30,50,50,70,50,30,20,20,20,10
+615,paris londres eurostar durée,train paris london,0.0,0.0,30,50,210,170,260,320,320,210,110,110,110,110
+616,eurostar paris londres durée,train paris london,0.36,0.0,40,50,90,110,110,110,140,110,140,110,70,90
+617,durée eurostar paris londres,train paris london,0.0,0.0,30,90,260,260,170,210,320,320,260,210,140,140
+618,londres par train,train paris london,0.0,0.0,10,10,10,10,10,10,20,10,20,10,10,10
+619,billet de train angleterre pas cher,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,30,10,10,10
+620,train pour aller en angleterre,train paris london,0.62,0.0,20,30,50,50,70,90,90,70,70,50,50,50
+621,billet train pas cher pour londres,train paris london,0.0,0.0,0,10,10,10,10,10,20,10,10,20,10,10
+622,sncf eurostar billet,train paris london,0.0,0.0,0,0,10,0,10,0,0,10,10,0,10,0
+623,prix eurostar pour londres,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+624,sncf londres train,train paris london,0.0,0.0,0,0,0,10,0,0,0,10,10,10,10,0
+625,partir à londres en train,train paris london,0.0,0.0,10,10,20,20,20,20,20,20,20,10,10,20
+626,billet pas cher paris londres eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+627,ar paris londres,train paris london,0.0,0.0,0,10,10,10,10,20,20,20,10,20,10,10
+628,train paris angleterre,train paris london,4.57,0.17,20,40,90,70,50,110,70,90,70,70,70,70
+629,londres par le train,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+630,tgv paris londres prix,train paris london,1.79,0.0,10,10,20,20,20,20,70,70,40,10,10,10
+631,thalys pour londres,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+632,durée trajet eurostar,train paris london,0.0,0.0,20,70,170,140,90,140,170,140,210,210,170,210
+633,durée eurostar,train paris london,0.0,0.0,30,90,210,210,140,170,210,210,260,320,260,320
+634,aller à londres en eurostar,train paris london,0.0,0.0,10,10,20,20,20,10,30,20,20,10,10,10
+635,trajet paris londres train,train paris london,0.0,0.0,10,10,50,20,20,20,30,20,20,20,10,10
+636,eurostar billet paris londres,train paris london,3.9,0.06,10,70,50,90,40,40,50,110,30,30,20,40
+637,paris londrès,train paris london,0.0,0.0,0,0,0,10,0,10,10,0,10,0,0,0
+638,train paris londres prix,train paris london,2.04,0.0,10,10,50,110,90,90,30,70,70,50,30,70
+639,eurostar quelle gare paris,train paris london,0.0,0.0,10,10,20,10,10,10,10,20,10,10,10,10
+640,billet angleterre train,train paris london,7.14,0.12,10,20,20,30,30,30,40,30,40,40,40,50
+641,eurostar londres calais,train paris london,0.0,0.0,10,30,40,20,30,20,30,20,30,30,10,40
+642,horaire train paris londres,train paris london,1.43,0.0,10,20,40,30,30,30,50,40,50,40,40,40
+643,sncf paris london,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,20,10
+644,billet paris train,train paris london,7.14,0.12,10,30,50,50,50,70,70,50,70,70,70,70
+645,tarif sncf eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+646,voyage sncf paris londres,train paris london,0.0,0.0,10,10,20,10,10,10,10,10,10,10,10,10
+647,aller et retour londres,train paris london,0.0,0.0,10,0,10,10,10,10,10,10,0,10,0,10
+648,prix tgv paris londres,train paris london,0.0,0.0,10,10,20,10,10,10,20,10,10,10,10,10
+649,sncf eurostar londres paris,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,0
+650,train hotel paris londres pas cher,train paris london,0.0,0.0,0,0,10,0,10,10,10,10,0,10,0,10
+651,eurostar londres paris prix,train paris london,0.0,0.0,10,30,40,30,10,20,30,10,30,20,20,20
+652,train paris london pas cher,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,20,20,10,10
+653,londres billet train,train paris london,7.79,0.14,10,20,20,20,30,30,30,20,20,20,20,20
+654,eurostar en francais,train paris london,0.0,0.0,10,10,0,10,10,10,10,10,10,10,10,10
+655,prix billet de train paris londres,train paris london,3.9,0.07,10,10,30,10,10,20,10,10,20,20,20,30
+656,reservation eurostar bruxelles londres,train paris london,0.0,0.0,0,10,0,10,10,10,10,10,0,10,0,0
+657,aller à londres en train pas cher,train paris london,0.0,0.0,10,10,10,10,10,30,20,10,10,10,10,10
+658,billet sncf londres,train paris london,0.0,0.0,10,10,10,20,10,10,20,20,10,20,20,20
+659,londres calais eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,30,30,10,20
+660,angleterre en train,train paris london,0.0,0.0,10,10,20,30,20,20,30,30,20,30,20,30
+661,reservation paris londres eurostar,train paris london,0.0,5.43,10,10,10,10,10,10,10,10,10,10,10,10
+662,tarifs eurostar pour londres,train paris london,0.0,0.0,10,10,40,10,10,10,10,10,10,10,10,0
+663,billet pour londres train,train paris london,14.29,0.11,10,10,20,90,70,30,20,10,40,20,10,10
+664,billets de train pas cher londres,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,0,10,10
+665,aller retour paris londres pas cher train,train paris london,0.0,0.0,0,0,0,0,10,0,0,10,10,0,10,0
+666,partir a londres pas cher en train,train paris london,0.0,0.0,0,0,0,0,0,0,10,10,0,10,0,0
+667,eurostar paris londres temps,train paris london,0.0,0.0,50,110,320,320,140,260,390,260,260,260,210,260
+668,prix eurostar aller retour,train paris london,0.0,0.0,10,10,10,10,20,10,10,10,20,10,10,10
+669,réservation eurostar paris londres,train paris london,3.57,0.0,10,40,30,30,40,50,110,90,50,30,40,10
+670,go voyage eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+671,se rendre à londres en train,train paris london,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+672,billet train paris londres aller retour pas cher,train paris london,0.0,0.12,10,10,10,30,20,30,20,10,20,20,10,10
+673,comment aller à londres en train,train paris london,0.0,0.0,10,10,20,30,20,40,40,40,20,20,30,30
+674,france londres train,train paris london,1.79,0.0,10,10,30,30,30,40,50,40,40,40,10,20
+675,durée du trajet paris londres en eurostar,train paris london,0.0,0.0,10,10,20,10,20,20,40,30,10,30,20,20
+676,londres paris sncf,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+677,trajet pour londres,train paris london,0.0,0.0,10,10,10,10,20,30,20,20,10,10,10,10
+678,billet de train pas cher pour londres aller retour,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,20,10,10,10
+679,eurostar horaires et tarifs,train paris london,0.0,0.0,0,10,10,0,10,0,10,0,0,0,10,10
+680,eurostar combien de temps avant,train paris london,0.0,0.0,10,70,140,70,140,260,320,210,210,210,170,140
+681,de paris a londres en train,train paris london,0.0,0.06,10,10,10,10,10,10,20,10,10,10,10,10
+682,reservation train londres,train paris london,0.0,0.0,0,10,20,20,20,20,30,20,20,20,10,10
+683,billet london paris,train paris london,0.0,0.0,10,10,10,10,10,10,0,10,10,10,10,10
+684,billet train en angleterre,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+685,billet de train pour londre pas cher,train paris london,0.0,0.11,10,10,20,20,20,10,10,10,10,10,10,10
+686,shuttle pour londres,train paris london,0.0,0.0,10,10,10,10,30,20,20,10,10,10,10,10
+687,londre billet de train,train paris london,1.59,0.0,10,10,30,30,40,10,20,10,20,10,10,10
+688,train eurostar londres,train paris london,0.71,0.0,20,40,70,70,90,90,90,40,30,20,40,40
+689,billet eurostar pour londres,train paris london,0.0,0.0,10,10,10,20,10,20,20,20,20,30,20,30
+690,train pour aller à londres,train paris london,0.0,0.0,10,10,20,30,30,20,50,40,30,20,30,20
+691,tarif londres paris eurostar,train paris london,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+692,tarif aller retour eurostar,train paris london,0.0,0.0,0,10,0,10,10,10,10,10,10,10,10,10
+693,euro star londre,train paris london,0.0,0.0,0,50,170,70,140,170,140,10,30,30,10,10
+694,france angleterre train,train paris london,0.0,0.0,20,40,50,40,40,50,50,50,50,50,40,50
+695,londres en tgv,train paris london,0.0,0.0,0,10,10,20,10,10,20,10,10,10,10,10
+696,voyage pour londres en eurostar,train paris london,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+697,partir a londres en train pas cher,train paris london,0.0,0.0,0,0,10,10,0,0,10,10,10,10,0,10
+698,paris londres novembre,train paris london,0.0,0.0,0,0,0,0,0,10,10,10,10,10,10,10
+699,trains en angleterre,train paris london,0.0,0.0,10,10,10,10,10,20,10,20,20,10,10,10
+700,paris lyon,train paris lyon,6.61,0.37,5400,49500,60500,14800,18100,18100,18100,40500,18100,18100,18100,18100
+701,tgv paris lyon,train paris lyon,6.01,0.11,1600,3600,4400,4400,5400,4400,5400,4400,3600,4400,4400,4400
+702,billet de train paris lyon,train paris lyon,35.47,0.12,210,720,1000,1000,880,1000,1600,1000,1300,1600,1300,1300
+703,lyon paris pas cher,train paris lyon,49.29,0.13,40,210,720,480,880,880,1300,880,1000,880,1000,880
+704,billet paris lyon,train paris lyon,29.47,0.16,210,590,1000,880,880,1000,1000,1000,880,1000,1000,880
+705,lyon paris tgv,train paris lyon,8.01,0.12,480,880,1900,1600,1600,1600,2400,2400,2400,1900,1900,1600
+706,sncf paris lyon,train paris lyon,4.13,0.14,320,880,1000,1300,1300,1000,1600,1300,880,1300,1300,1300
+707,billet tgv paris lyon,train paris lyon,50.51,0.11,50,260,590,590,480,480,590,480,390,590,480,590
+708,billet train paris lyon,train paris lyon,20.69,0.12,140,480,720,720,590,720,880,720,720,880,880,720
+709,tgv lyon,train paris lyon,3.96,0.1,210,480,1000,880,720,1000,1300,1000,880,1000,880,880
+710,train pas cher paris lyon,train paris lyon,31.43,0.17,10,40,90,70,70,110,210,170,140,90,110,110
+711,billet de train pas cher paris lyon,train paris lyon,34.69,0.14,10,30,140,90,50,110,210,110,140,140,110,90
+712,train pour lyon,train paris lyon,8.84,0.08,140,320,390,390,480,390,480,390,320,390,320,260
+713,billet pas cher paris lyon,train paris lyon,32.65,0.16,10,50,110,50,90,70,140,90,90,110,110,110
+714,lyon tgv,train paris lyon,1.84,0.06,30,110,260,390,210,260,320,260,320,320,260,320
+715,billet de train pour lyon,train paris lyon,21.85,0.1,50,90,170,210,170,210,260,260,210,210,210,170
+716,billet pour lyon,train paris lyon,13.39,0.09,30,70,140,140,140,140,140,110,110,110,140,90
+717,prix tgv paris lyon,train paris lyon,15.18,0.09,20,40,70,50,50,90,90,90,110,90,70,70
+718,trajet paris lyon,train paris lyon,4.81,1.01,170,320,590,480,590,390,590,390,390,480,480,390
+719,aller retour paris lyon,train paris lyon,10.08,0.29,20,70,110,70,90,110,140,170,110,110,110,110
+720,billet sncf paris lyon,train paris lyon,9.44,0.19,50,90,140,390,260,260,210,320,210,260,210,260
+721,lyon paris train,train paris lyon,10.68,0.13,880,1600,3600,2900,2900,2900,3600,2900,2900,2900,2400,2400
+722,tgv pas cher paris lyon,train paris lyon,57.14,0.09,10,20,40,30,10,40,70,50,70,70,90,50
+723,billet train pas cher paris lyon,train paris lyon,14.29,0.15,10,10,50,30,20,30,50,40,20,50,50,70
+724,transport paris lyon,train paris lyon,85.71,1.18,50,110,90,90,110,140,90,90,70,90,90,90
+725,billet de tgv paris lyon,train paris lyon,46.67,0.16,10,40,90,70,70,90,90,70,70,50,70,70
+726,tgv gare de lyon,train paris lyon,0.72,0.0,170,390,590,480,880,480,880,480,590,720,590,480
+727,tarif tgv paris lyon,train paris lyon,8.57,0.12,10,30,50,50,30,40,40,50,50,70,50,50
+728,paris a lyon,train paris lyon,3.87,0.15,50,70,140,70,140,110,140,170,140,140,140,140
+729,lyon paris sncf,train paris lyon,2.27,0.06,70,140,320,260,320,260,390,480,320,320,390,320
+730,voyage paris lyon,train paris lyon,15.0,0.13,20,20,30,10,40,30,20,20,20,40,30,30
+731,tgv bruxelles lyon,train paris lyon,9.05,0.07,30,90,140,140,210,140,170,260,170,140,170,110
+732,lyon train,train paris lyon,4.96,0.17,70,170,320,320,260,390,320,390,320,390,390,320
+733,de paris a lyon,train paris lyon,2.1,0.0,70,50,90,70,90,70,70,70,90,90,70,50
+734,train paris lyon part dieu,train paris lyon,19.43,0.21,20,50,90,90,90,90,90,260,140,170,90,70
+735,lyon paris train pas cher,train paris lyon,80.95,0.1,10,30,140,110,110,140,210,170,170,140,110,110
+736,billet de train lyon,train paris lyon,28.57,0.13,40,140,260,210,210,320,320,260,320,260,260,260
+737,paris lyon pas cher,train paris lyon,34.48,0.14,50,320,720,590,880,880,1300,1000,1000,1600,1300,1300
+738,billet train lyon,train paris lyon,17.75,0.11,30,110,260,260,170,210,260,260,210,210,210,210
+739,train pour lyon pas cher,train paris lyon,7.14,0.0,10,10,10,20,30,20,30,30,50,50,50,20
+740,lyon pas cher,train paris lyon,7.14,0.08,10,30,50,50,50,40,50,50,90,70,40,50
+741,train lyon,train paris lyon,9.17,0.07,260,720,1300,1300,1300,1600,1600,1600,1000,1300,1000,1300
+742,train gare de lyon,train paris lyon,1.21,0.05,210,720,1600,1000,1600,880,1300,880,880,1000,1000,880
+743,paris lyon part dieu,train paris lyon,10.71,0.06,40,140,170,140,140,210,260,210,210,260,210,170
+744,bus paris lyon,train paris lyon,6.83,0.15,320,1000,1600,1300,5400,2900,2900,1900,1600,2400,2400,1900
+745,sncf lyon,train paris lyon,11.22,0.1,1600,2900,4400,5400,5400,4400,4400,3600,2400,2900,1900,2400
+746,lyon paris en train,train paris lyon,2.11,0.12,70,90,140,140,110,110,170,170,140,110,140,140
+747,pari lyon,train paris lyon,18.75,1.57,20,90,110,20,30,30,30,140,20,30,20,40
+748,billet de train pas cher pour lyon,train paris lyon,0.0,0.09,0,10,30,10,20,10,20,20,20,20,20,20
+749,prix train paris lyon,train paris lyon,7.94,0.08,10,20,20,30,30,40,40,50,50,50,30,40
+750,gare de lyon tgv,train paris lyon,0.0,0.0,110,260,480,320,390,320,390,320,320,480,480,320
+751,billet pas cher lyon,train paris lyon,3.57,0.08,10,10,70,70,50,50,70,50,50,50,70,50
+752,paris bordeaux,train paris lyon,9.26,0.34,6600,12100,40500,14800,18100,14800,22200,33100,22200,27100,22200,22200
+753,train marseille paris,train paris lyon,6.04,0.08,1900,3600,5400,5400,6600,6600,8100,6600,6600,5400,5400,4400
+754,train paris rome,train paris lyon,23.32,0.2,260,390,1900,1900,1300,1600,1900,1900,1900,1900,1600,1600
+755,idtgv lyon,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+756,billet tgv pas cher paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,20,20,10
+757,horaire train paris lyon part dieu,train paris lyon,3.57,0.06,10,20,30,20,10,40,70,110,40,90,110,90
+758,sncf train paris lyon,train paris lyon,6.72,0.06,20,50,70,70,110,70,110,50,30,70,50,70
+759,train paris berlin,train paris lyon,3.88,0.08,590,1000,2400,2900,2400,2900,3600,2900,2400,2400,2400,2400
+760,train paris bruxelles,train paris lyon,3.31,0.27,2900,5400,8100,8100,6600,8100,9900,8100,6600,6600,6600,8100
+761,paris de lyon,train paris lyon,2.38,0.0,10,50,30,40,50,40,50,40,50,50,50,50
+762,train nice paris,train paris lyon,10.17,0.12,1000,1900,2400,2400,2400,2400,3600,2900,4400,2900,2900,2400
+763,billet de train paris marseille,train paris lyon,20.43,0.09,720,1000,1900,1600,1300,1600,1900,1600,2900,3600,2400,1600
+764,tarif train paris lyon,train paris lyon,3.17,0.0,10,10,20,20,10,10,30,20,20,20,10,20
+765,train paris montpellier,train paris lyon,6.39,0.08,1300,2900,3600,3600,3600,3600,4400,4400,4400,5400,4400,3600
+766,train paris londres,train paris lyon,2.44,0.06,720,2900,6600,8100,6600,8100,9900,6600,5400,5400,4400,5400
+767,train paris toulouse,train paris lyon,12.29,0.11,1900,4400,5400,4400,4400,5400,6600,5400,5400,6600,6600,5400
+768,gare de paris lyon,train paris lyon,0.12,0.0,110,210,320,210,320,260,320,210,260,260,260,170
+769,train paris nice,train paris lyon,9.98,0.08,1600,2900,3600,2900,2400,2900,3600,3600,5400,5400,4400,4400
+770,train paris amsterdam,train paris lyon,3.08,0.06,880,3600,9900,9900,8100,8100,9900,8100,6600,6600,5400,6600
+771,train de paris a lyon,train paris lyon,6.35,0.0,10,30,30,30,50,40,40,30,40,40,30,20
+772,train paris marseille,train paris lyon,8.08,0.15,2900,5400,6600,5400,5400,4400,6600,6600,8100,9900,8100,5400
+773,sncf tgv paris lyon,train paris lyon,4.87,0.07,40,110,140,170,260,170,210,210,170,170,170,210
+774,train tgv paris lyon,train paris lyon,8.57,0.18,20,50,70,90,110,50,110,40,50,70,50,70
+775,paris nice train,train paris lyon,10.35,0.07,1900,3600,5400,4400,2400,2900,4400,4400,6600,8100,6600,5400
+776,prix billet tgv paris lyon,train paris lyon,23.81,0.07,10,10,20,20,10,20,20,30,10,20,30,20
+777,train lyon paris,train paris lyon,9.9,0.14,1900,4400,6600,6600,8100,6600,8100,6600,5400,5400,6600,5400
+778,horaire train paris lyon,train paris lyon,2.56,0.05,40,140,260,320,170,320,390,480,260,320,390,320
+779,train paris barcelone,train paris lyon,4.93,0.08,590,1600,4400,2900,2400,2400,2900,2900,4400,5400,4400,4400
+780,tgv sncf paris lyon,train paris lyon,12.24,0.09,10,30,40,30,70,70,90,70,40,50,70,70
+781,prix billet paris lyon,train paris lyon,2.86,0.03,10,10,40,30,10,20,20,40,40,40,40,20
+782,lyon paris,train paris lyon,3.59,0.16,4400,49500,27100,9900,14800,14800,14800,74000,14800,9900,9900,9900
+783,paris lyon tgv,train paris lyon,11.93,0.1,1300,2400,4400,3600,2900,4400,4400,4400,3600,3600,3600,3600
+784,train paris bordeaux,train paris lyon,9.73,0.18,2400,5400,6600,6600,6600,6600,9900,8100,6600,8100,8100,6600
+785,tgv paris lyon part dieu,train paris lyon,5.42,0.06,30,40,30,70,30,50,110,140,110,110,90,70
+786,tgv lyon paris,train paris lyon,10.33,0.1,1600,3600,6600,6600,8100,6600,9900,8100,5400,5400,6600,5400
+787,train paris nantes,train paris lyon,6.84,0.08,1000,3600,3600,3600,3600,3600,5400,4400,3600,4400,4400,3600
+788,tarif paris lyon,train paris lyon,5.71,0.73,10,20,30,20,10,20,20,30,20,20,20,20
+789,paris bordeaux train,train paris lyon,11.33,0.15,1000,2400,3600,2900,2900,2900,4400,4400,4400,5400,4400,4400
+790,paris lyon train,train paris lyon,7.73,0.11,880,1900,3600,3600,2900,2900,3600,3600,2900,2900,2900,2900
+791,prix billet de train paris lyon,train paris lyon,3.17,0.0,10,10,20,20,10,20,10,10,30,20,30,20
+792,train paris lille,train paris lyon,13.55,0.23,1000,2900,4400,5400,4400,5400,6600,5400,5400,4400,5400,4400
+793,paris lyon perrache,train paris lyon,16.19,0.17,10,90,140,110,70,140,170,210,140,170,210,140
+794,train paris geneve,train paris lyon,5.79,0.3,480,1300,2400,2400,2400,1900,2400,1900,1900,2400,1900,1600
+795,lyon paris tgv pas cher,train paris lyon,0.0,0.0,10,20,50,10,10,20,30,30,20,10,20,40
+796,train paris strasbourg,train paris lyon,9.73,0.13,720,2900,2900,2900,4400,5400,5400,4400,2900,2900,2900,2900
+797,paris gare du lyon,train paris lyon,0.0,0.0,10,20,70,50,50,40,50,70,90,90,50,50
+798,billet pas cher pour lyon,train paris lyon,100.0,0.09,10,10,20,20,10,20,20,20,40,20,40,20
+799,partir à lyon pas cher,train paris lyon,85.71,0.09,10,10,10,10,10,10,10,10,10,10,10,10
+800,billet de train marseille paris,train paris lyon,19.49,0.13,390,720,1600,1600,1600,1600,2400,1600,2400,1600,1300,1300
+801,paris to lyon train,train paris lyon,2.81,0.12,50,260,590,480,590,590,1000,1000,880,1900,1600,880
+802,lyon paris distance,train paris lyon,0.01,0.0,880,1300,1900,1900,1900,1600,1600,1600,2400,1900,1600,1600
+803,train paris rennes,train paris lyon,7.92,0.1,880,2900,2900,2900,2900,3600,4400,3600,2900,3600,3600,3600
+804,billet de train paris lyon part dieu,train paris lyon,100.0,0.08,10,10,20,10,20,10,20,20,20,40,30,20
+805,train paris milan,train paris lyon,37.81,0.24,480,880,2400,1900,1600,1900,2400,1900,2400,3600,1900,1900
+806,aller à lyon,train paris lyon,0.15,0.0,170,390,590,590,720,720,720,720,880,720,590,480
+807,tgv paris marseille,train paris lyon,6.62,0.09,2400,3600,4400,4400,4400,3600,5400,4400,5400,6600,5400,4400
+808,train paris rouen,train paris lyon,12.61,0.13,1000,2400,3600,3600,3600,4400,4400,4400,3600,3600,4400,3600
+809,ouigo paris lyon,train paris lyon,27.31,0.05,880,3600,6600,6600,5400,8100,12100,12100,8100,6600,12100,12100
+810,lyon paris pas cher tgv,train paris lyon,0.0,0.0,0,0,10,0,10,10,10,10,10,10,10,0
+811,billet train pour lyon,train paris lyon,7.14,0.13,10,10,20,20,20,20,20,20,30,30,20,20
+812,sncf billet paris lyon,train paris lyon,0.0,0.28,10,10,30,30,20,30,30,30,50,20,50,30
+813,train sncf paris lyon,train paris lyon,5.1,0.08,30,70,70,70,110,70,70,50,50,50,50,50
+814,trajet tgv paris lyon,train paris lyon,2.86,0.0,10,50,50,30,50,40,50,40,50,40,30,30
+815,billet de train lyon paris,train paris lyon,19.29,0.11,320,720,1600,1300,1300,1300,1600,1300,1300,1300,1300,1000
+816,paris à lyon,train paris lyon,4.76,0.19,30,40,50,70,70,70,70,50,70,70,50,50
+817,tgv de paris a lyon,train paris lyon,8.16,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+818,aller à lyon pas cher,train paris lyon,0.0,0.0,10,20,50,30,20,40,40,30,50,50,40,50
+819,billet aller retour paris lyon,train paris lyon,0.0,0.11,0,10,10,10,20,20,40,20,20,20,20,20
+820,lyon billet,train paris lyon,0.0,0.0,10,30,110,70,140,50,50,70,90,20,20,30
+821,billet pas cher tgv paris lyon,train paris lyon,100.0,0.08,10,10,10,0,10,10,10,10,10,20,10,10
+822,sncf billets pas chers paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+823,billet de train paris bordeaux,train paris lyon,24.75,0.09,260,590,1000,880,880,1000,1300,1300,1300,1600,1300,1000
+824,gare paris lyon,train paris lyon,0.13,0.0,110,210,260,210,320,260,320,170,260,260,170,170
+825,train paris,train paris lyon,4.04,0.11,1000,3600,5400,5400,6600,5400,6600,5400,4400,5400,4400,4400
+826,paris to lyon,train paris lyon,3.71,0.17,110,320,720,720,880,720,1000,880,880,1300,1000,880
+827,train paris perpignan,train paris lyon,9.22,0.06,880,1600,1600,1600,1300,1600,2400,1600,2900,3600,2900,2400
+828,paris marseille,train paris lyon,7.45,0.32,9900,18100,22200,22200,22200,22200,301000,22200,33100,33100,27100,22200
+829,lyon en train,train paris lyon,7.14,0.07,10,20,50,50,30,50,50,50,50,50,50,50
+830,prix billet train paris lyon,train paris lyon,4.08,0.23,10,10,10,20,10,20,20,20,20,30,20,20
+831,train moins cher paris lyon,train paris lyon,0.0,0.22,0,10,10,10,10,10,20,20,10,30,30,20
+832,lyon paris tgv prix,train paris lyon,5.71,0.06,10,10,20,30,50,50,50,50,30,50,50,50
+833,lyon to paris,train paris lyon,4.76,0.15,110,320,590,590,590,480,720,720,720,880,880,720
+834,train paris caen,train paris lyon,11.31,0.09,590,1900,2400,2400,2400,2400,2900,2900,2400,2900,3600,2400
+835,tgv pour lyon,train paris lyon,1.79,0.12,40,40,70,50,140,50,90,50,50,50,50,40
+836,train paris a lyon,train paris lyon,5.49,0.07,10,10,10,10,20,10,20,20,20,20,10,20
+837,billet tgv paris lyon part dieu,train paris lyon,17.14,0.07,10,10,10,20,20,20,20,40,20,30,20,30
+838,prix paris lyon,train paris lyon,0.0,0.0,10,20,30,20,30,20,20,20,40,30,20,30
+839,tgv paris,train paris lyon,3.47,0.11,590,1900,2900,2900,2900,2900,3600,3600,2900,2900,2900,2900
+840,ticket paris lyon,train paris lyon,0.0,0.0,10,10,30,10,20,10,20,20,10,10,10,10
+841,billet pas cher train paris lyon,train paris lyon,0.0,0.0,0,0,10,0,0,0,10,0,0,0,10,10
+842,billet de train sncf paris lyon,train paris lyon,21.43,0.06,10,20,30,20,10,20,10,10,20,20,20,20
+843,lyon paris en tgv,train paris lyon,6.35,0.17,20,30,50,40,50,50,70,70,50,40,50,50
+844,billet lyon,train paris lyon,6.31,0.24,40,140,390,320,390,260,320,320,320,210,210,210
+845,billet de train pas cher paris lyon part dieu,train paris lyon,28.57,0.07,10,10,10,10,10,10,30,10,20,40,20,30
+846,horaire train gare de lyon,train paris lyon,0.0,0.0,50,170,390,320,320,320,480,390,390,480,390,320
+847,lyon paris billet,train paris lyon,58.73,0.12,10,70,90,20,50,50,40,140,90,50,30,30
+848,train pour aller a lyon,train paris lyon,7.14,0.0,10,20,20,20,30,20,40,30,30,20,20,20
+849,lyon to paris train,train paris lyon,7.79,0.09,110,390,590,590,590,590,1000,1000,880,1900,1000,880
+850,billet de train tgv paris lyon,train paris lyon,85.71,0.13,10,10,10,10,10,10,20,20,10,10,10,10
+851,tarif sncf paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,10,10,10,20,10
+852,aller paris lyon,train paris lyon,0.0,0.0,10,10,10,10,20,20,10,20,10,10,10,10
+853,billet paris lyon part dieu,train paris lyon,0.0,0.0,10,10,20,10,10,10,20,70,20,20,20,30
+854,tgv moins cher paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+855,billet de train pour lyon pas cher,train paris lyon,42.86,0.08,10,10,50,20,20,20,30,30,20,30,20,30
+856,train paris lyon perrache,train paris lyon,7.79,0.1,10,20,90,70,40,70,90,70,50,90,70,90
+857,billets de train pas cher paris lyon,train paris lyon,0.0,0.18,0,10,10,10,10,10,10,20,10,10,10,10
+858,billet tgv lyon,train paris lyon,4.08,0.0,10,10,50,30,20,30,30,40,30,40,50,40
+859,train paris clermont ferrand,train paris lyon,9.62,0.1,320,1000,1300,1300,1300,1300,1600,1600,1300,1900,1900,1600
+860,de paris à lyon,train paris lyon,1.02,0.0,30,10,30,20,40,30,30,30,30,40,30,30
+861,réservation tgv paris lyon,train paris lyon,10.71,0.06,10,10,10,20,20,20,30,20,10,20,30,20
+862,train paris grenoble,train paris lyon,9.69,0.1,390,1300,1900,2400,1900,1900,1900,1600,1600,1900,1900,1300
+863,reservation tgv paris lyon,train paris lyon,33.33,0.12,10,30,70,30,20,20,20,10,20,10,10,10
+864,billet train paris lyon part dieu,train paris lyon,6.12,0.0,10,10,20,10,10,20,10,40,10,10,10,20
+865,train france,train paris lyon,2.48,0.11,1300,4400,2900,2900,3600,2900,4400,4400,5400,5400,4400,3600
+866,sncf billet tgv paris lyon,train paris lyon,0.0,0.0,0,10,10,0,10,10,10,10,10,10,30,10
+867,aller a lyon,train paris lyon,1.1,0.0,50,110,170,110,210,140,170,140,210,110,140,110
+868,lyon paris aller retour,train paris lyon,0.0,0.07,10,20,30,20,30,30,30,20,20,20,20,20
+869,billet de train gare de lyon,train paris lyon,42.86,0.11,10,10,40,40,30,40,40,50,40,70,70,40
+870,train paris dijon,train paris lyon,7.04,0.09,390,1000,1300,1300,1600,1600,1900,1600,1300,1600,1600,1300
+871,train paris amiens,train paris lyon,5.61,0.06,390,1300,2400,2400,2400,2400,2400,2400,1900,1900,1900,1900
+872,train paris tours,train paris lyon,8.69,0.12,390,1000,1600,1300,1300,1600,1900,1900,1600,1600,1600,1600
+873,train paris avignon,train paris lyon,4.4,0.07,390,1000,1000,880,1000,880,1300,1300,1600,1900,1900,1300
+874,train paris nancy,train paris lyon,12.34,0.15,320,1000,1600,1300,1600,1600,1900,1900,1600,1300,1600,1600
+875,billet de train paris montpellier,train paris lyon,24.29,0.09,210,390,720,480,390,480,720,720,1300,1300,1000,720
+876,aller retour lyon,train paris lyon,0.0,0.0,10,40,50,50,50,70,50,70,50,50,50,40
+877,billet lyon paris,train paris lyon,34.93,0.14,140,480,1000,590,720,720,880,1000,880,720,720,590
+878,sncf paris lyon part dieu,train paris lyon,14.29,0.0,10,10,20,70,70,40,20,90,50,50,30,20
+879,paris vers lyon,train paris lyon,0.65,0.23,20,40,50,40,40,50,40,50,50,40,30,40
+880,tgv paris lyon perrache,train paris lyon,8.57,0.1,10,20,50,50,50,50,70,110,40,110,90,90
+881,trajet train paris lyon,train paris lyon,0.95,0.0,10,10,30,40,20,40,30,30,30,40,30,40
+882,aller à lyon en train,train paris lyon,0.0,0.0,10,10,50,40,30,20,30,20,10,10,10,20
+883,billet lyon pas cher,train paris lyon,0.0,0.12,0,10,40,10,20,30,40,20,50,50,40,20
+884,billet train lyon paris,train paris lyon,22.12,0.11,140,390,1000,1000,720,1000,1300,1000,880,880,880,720
+885,train paris angers,train paris lyon,9.59,0.08,320,1000,1600,1300,1300,1600,1900,1600,1600,1600,1600,1300
+886,tgv paris a lyon,train paris lyon,7.14,0.08,10,10,10,10,10,10,10,10,10,10,10,10
+887,lyon paris trajet,train paris lyon,2.46,0.0,70,140,210,140,170,140,170,140,210,140,110,140
+888,train paris lausanne,train paris lyon,4.37,0.07,210,480,1000,1000,880,880,880,1000,880,880,720,720
+889,prix du billet de train paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+890,train paris limoges,train paris lyon,7.84,0.1,390,1000,1000,1000,1300,1300,1600,1300,1300,1600,1600,1300
+891,train paris troyes,train paris lyon,5.83,0.08,590,1000,1600,1600,1900,1900,2400,1900,1600,1900,1600,1600
+892,lyon paris pas cher train,train paris lyon,71.43,0.06,10,20,50,20,30,40,90,70,70,50,40,40
+893,prix de billet de train paris lyon,train paris lyon,0.0,0.0,10,0,10,10,0,10,10,10,0,0,10,0
+894,billet train pas cher pour lyon,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,0,10
+895,paris et lyon,train paris lyon,0.0,0.0,30,90,70,20,30,20,10,40,20,20,10,10
+896,lyon paris billet pas cher,train paris lyon,0.0,0.11,0,10,10,10,10,10,20,10,20,20,30,20
+897,sncf lyon paris,train paris lyon,2.54,0.11,480,880,1600,1900,1900,1900,2400,1900,1300,1600,1600,1600
+898,voyage a lyon pas cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+899,billet pour lyon pas cher,train paris lyon,64.29,0.15,10,20,40,10,20,20,20,20,20,20,20,50
+900,billet de train de paris a lyon,train paris lyon,14.29,0.06,10,10,10,10,10,10,10,10,10,10,10,10
+901,itinéraire paris lyon,train paris lyon,0.0,0.0,170,260,320,260,390,260,140,320,480,480,320,390
+902,billet moins cher paris lyon,train paris lyon,50.0,0.19,10,10,40,10,20,20,40,20,20,10,10,10
+903,billet de train aller retour paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+904,train pas cher lyon,train paris lyon,21.43,0.11,10,20,30,20,10,20,30,40,30,50,30,30
+905,train paris aix en provence,train paris lyon,10.97,0.09,390,880,1000,1000,880,880,1300,1300,1600,1600,1600,1300
+906,billet train paris,train paris lyon,15.24,0.17,90,390,880,880,590,880,1000,880,880,880,880,720
+907,billet prems paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,30,40,50,30,20,10
+908,train nimes paris,train paris lyon,5.39,0.06,320,590,1000,1000,1300,1000,1600,1300,1300,1000,1000,1000
+909,aller a lyon en train,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,30,20,20,40,30
+910,prix de tgv paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,0,0
+911,prix du tgv paris lyon,train paris lyon,0.0,0.0,0,0,0,10,10,10,10,10,10,10,10,10
+912,tgv billet paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,20,20,10
+913,train paris poitiers,train paris lyon,10.59,0.09,260,720,1000,880,1000,1000,1600,1000,1000,1300,1000,1000
+914,train paris nimes,train paris lyon,6.95,0.12,480,880,880,880,880,720,1000,880,1000,1300,1000,1000
+915,idtgv paris lyon part dieu,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,0
+916,sncf pas cher paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,20,10,10,20,20
+917,tarif billet tgv paris lyon,train paris lyon,0.0,0.0,0,0,10,0,10,0,0,0,0,0,10,10
+918,billet tgv lyon paris,train paris lyon,27.71,0.18,70,210,590,590,480,590,720,720,480,480,590,590
+919,billet sncf pas cher paris lyon,train paris lyon,0.0,0.0,0,0,10,10,0,10,10,0,10,0,0,10
+920,train paris lyon pas cher,train paris lyon,14.29,0.14,70,170,320,210,210,320,480,320,480,480,480,390
+921,ticket train paris lyon,train paris lyon,0.0,0.13,10,10,10,10,10,10,10,20,10,10,30,10
+922,train paris quimper,train paris lyon,7.44,0.07,390,880,720,720,720,720,1300,1000,1300,1600,1300,1000
+923,billet train pas cher lyon,train paris lyon,0.0,0.09,0,10,10,10,10,20,10,20,20,10,10,10
+924,tgv aller retour paris lyon,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+925,billet de train paris strasbourg,train paris lyon,27.3,0.09,50,170,390,320,390,720,590,480,390,390,390,390
+926,horaires paris lyon,train paris lyon,0.0,0.0,20,30,70,70,70,110,110,110,70,140,140,140
+927,billet paris lyon pas cher,train paris lyon,83.93,0.12,20,50,210,140,260,260,320,140,210,260,320,320
+928,train lyon paris pas cher,train paris lyon,28.57,0.13,10,140,390,210,210,260,480,390,320,320,320,260
+929,billet de train pas cher lyon,train paris lyon,28.57,0.1,10,10,20,10,10,20,20,30,30,20,20,10
+930,billet train pas cher sncf paris lyon,train paris lyon,0.0,0.0,0,0,0,0,0,0,10,10,10,10,10,10
+931,tgv orly lyon,train paris lyon,0.0,0.0,10,40,30,30,30,30,30,30,20,20,20,20
+932,prix aller retour paris lyon,train paris lyon,2.86,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+933,aller a lyon pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,20,10
+934,lyon paris sncf pas cher,train paris lyon,0.0,0.0,0,10,0,10,0,10,10,10,10,10,10,10
+935,lyon paris en train pas cher,train paris lyon,0.0,0.0,10,10,20,10,10,10,10,20,10,10,10,30
+936,train pas cher lyon paris,train paris lyon,63.49,0.12,10,90,260,140,140,260,390,260,210,210,320,260
+937,train orly lyon,train paris lyon,0.0,0.0,10,50,20,40,20,20,30,40,30,20,20,20
+938,train evreux paris,train paris lyon,4.42,0.07,320,720,1300,1600,1300,1600,1900,1600,1600,1600,1600,1300
+939,billet de tgv pour lyon,train paris lyon,21.43,0.09,10,10,10,0,10,10,10,10,10,10,10,10
+940,billet de train moins cher paris lyon,train paris lyon,0.0,0.0,0,20,20,10,10,10,10,20,10,10,10,10
+941,train pas cher pour lyon,train paris lyon,42.86,0.07,10,0,20,10,10,20,20,10,10,10,20,10
+942,train paris granville,train paris lyon,7.46,0.05,210,590,720,590,880,590,880,720,1000,1000,1000,720
+943,partir a lyon,train paris lyon,3.97,0.0,20,20,40,20,20,20,30,40,40,30,30,20
+944,lyon paris low cost,train paris lyon,0.0,0.0,20,20,20,30,30,30,10,10,10,10,10,10
+945,ticket tgv paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+946,train paris valence,train paris lyon,8.8,0.06,210,480,720,590,590,590,720,720,880,1000,880,880
+947,partir a lyon pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,0
+948,train lyon pas cher,train paris lyon,0.0,0.05,0,10,10,10,10,10,10,10,30,20,20,20
+949,lyon paris billetterie,train paris lyon,0.0,0.0,10,140,140,10,10,10,10,140,70,10,10,0
+950,billet train paris lyon perrache,train paris lyon,0.0,0.0,10,10,10,20,10,10,10,20,10,10,10,10
+951,train paris mulhouse,train paris lyon,7.81,0.09,260,590,720,720,880,720,880,720,720,720,720,590
+952,billet train sncf paris lyon,train paris lyon,0.0,0.0,10,10,20,20,10,10,10,10,10,10,10,10
+953,train low cost paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+954,lyon paris prix,train paris lyon,0.0,0.0,20,40,20,20,40,30,20,20,20,20,10,20
+955,billet train lyon pas cher,train paris lyon,7.14,0.0,10,10,10,20,20,20,30,20,30,30,20,30
+956,billet de train pas cher pour paris lyon,train paris lyon,0.0,0.0,0,0,0,0,0,10,0,10,10,10,10,10
+957,tarif billet de train paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+958,paris lyon sncf,train paris lyon,2.4,0.1,110,320,480,480,480,590,590,720,590,720,720,590
+959,billet pour paris lyon,train paris lyon,57.14,0.15,10,10,10,10,10,10,10,10,10,10,10,10
+960,lyon paris lyon,train paris lyon,0.0,0.0,10,10,10,20,10,10,10,10,10,10,10,10
+961,train marseille rome,train paris lyon,22.04,0.26,30,50,320,390,320,320,390,320,320,320,260,320
+962,aller retour tgv paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+963,billet de tgv pas cher paris lyon,train paris lyon,0.0,0.0,0,10,0,0,0,0,10,0,0,0,0,0
+964,voyage sncf paris lyon,train paris lyon,0.0,0.0,10,20,50,20,20,40,30,20,20,10,30,20
+965,dernier train paris lyon,train paris lyon,0.0,0.21,0,10,10,10,10,10,30,10,10,10,20,20
+966,lyon sncf,train paris lyon,7.59,0.1,30,140,170,170,210,260,260,260,140,210,170,320
+967,sncf tarif paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+968,bon plan lyon paris,train paris lyon,0.0,0.0,0,0,10,0,10,10,10,10,10,10,10,10
+969,paris lyon ouigo,train paris lyon,18.01,0.08,260,1300,1900,1000,1600,1900,2900,2400,1600,1900,1900,1900
+970,distance paris lyon,train paris lyon,0.01,0.0,1900,2400,2900,2900,3600,2900,2900,2900,3600,3600,2900,4400
+971,train vers lyon,train paris lyon,5.71,0.09,10,10,30,20,20,20,30,10,20,20,20,20
+972,trajet sncf paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+973,billet train moins cher paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+974,train paris evreux,train paris lyon,8.61,0.07,260,590,1000,880,1000,1000,1300,1300,1000,1000,1000,1000
+975,train paris lourdes,train paris lyon,5.31,0.12,70,170,390,320,210,320,390,480,720,720,480,590
+976,gare tgv lyon,train paris lyon,0.0,0.0,90,260,480,480,260,480,590,480,390,390,320,480
+977,horaires sncf paris lyon,train paris lyon,0.0,0.0,20,10,40,40,30,50,70,90,40,70,90,70
+978,paris lyon distance,train paris lyon,0.17,1.39,2400,2400,3600,2900,4400,2900,3600,2900,4400,4400,3600,4400
+979,voyage lyon pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,20,10,10,10,10
+980,billet tgv pour lyon pas cher,train paris lyon,0.0,0.0,0,0,0,0,10,0,0,10,0,0,10,10
+981,billet train gare de lyon,train paris lyon,3.57,0.0,10,10,10,20,10,10,20,20,30,20,20,20
+982,reservation billet tgv paris lyon,train paris lyon,0.0,0.21,10,0,20,10,10,10,10,10,10,10,10,10
+983,horaire de train paris lyon,train paris lyon,5.95,0.21,10,50,50,50,20,30,50,50,30,70,50,40
+984,billet de train pas cher lyon paris,train paris lyon,19.05,0.18,10,40,110,70,70,110,140,210,140,110,140,110
+985,billet lyon paris pas cher,train paris lyon,33.33,0.15,10,70,140,70,110,110,170,140,210,140,170,110
+986,train paris beziers,train paris lyon,14.7,0.07,140,320,390,320,390,320,480,390,590,880,590,480
+987,lyon en tgv,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+988,billet de train pour paris lyon,train paris lyon,14.29,0.07,10,10,10,10,10,10,10,10,10,10,0,0
+989,train nice montpellier,train paris lyon,5.8,0.07,110,170,260,210,210,260,320,320,390,390,320,320
+990,strasbourg to paris train,train paris lyon,20.41,0.22,40,210,260,320,480,320,390,480,320,390,390,390
+991,paris to toulouse train,train paris lyon,12.78,0.21,50,170,320,260,320,260,390,390,320,390,390,320
+992,gare lyon tgv,train paris lyon,0.0,0.0,10,20,70,70,40,50,70,70,70,50,40,40
+993,train paris angouleme,train paris lyon,8.18,0.07,170,390,480,590,480,480,720,480,590,720,590,480
+994,aller a lyon en tgv,train paris lyon,0.0,0.0,0,0,10,10,10,0,0,10,10,0,10,10
+995,billet train pour lyon pas cher,train paris lyon,7.14,0.0,10,10,10,10,10,10,10,20,10,10,10,10
+996,train a lyon,train paris lyon,7.14,0.0,10,20,30,10,30,30,10,20,20,20,10,10
+997,prix du billet tgv paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,0,10,10,0,10,10
+998,train paris auxerre,train paris lyon,8.78,0.12,140,320,390,320,480,480,590,590,590,590,480,480
+999,billet train tgv paris lyon,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+1000,train paris naples,train paris lyon,19.33,0.07,50,90,320,320,170,210,260,320,320,390,390,390
+1001,tarif billet train paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1002,paris ou lyon,train paris lyon,0.0,0.0,30,30,40,50,40,50,50,50,30,40,40,30
+1003,sncf tgv lyon,train paris lyon,0.0,0.0,10,10,20,30,20,20,50,30,20,40,10,20
+1004,sncf paris lyon perrache,train paris lyon,0.0,0.0,10,10,10,20,20,20,20,30,10,10,20,20
+1005,distance lyon paris,train paris lyon,0.16,0.0,880,880,1300,1300,1600,1300,1000,1000,1600,1000,1000,1300
+1006,lyon paris idtgv,train paris lyon,0.0,0.0,0,0,0,0,0,0,0,10,0,0,0,0
+1007,lyon paris gare de lyon tgv,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,20,20,10,20,10
+1008,lyon paris train prix,train paris lyon,3.57,0.14,10,10,20,10,10,10,20,10,20,10,20,10
+1009,marseille to nice train,train paris lyon,12.14,0.16,20,90,170,140,140,140,320,390,390,590,480,480
+1010,paris lyon en train,train paris lyon,5.19,0.14,90,170,260,260,170,260,320,390,320,320,320,260
+1011,billet de train lyon paris pas cher,train paris lyon,50.89,0.1,20,70,170,110,140,170,170,140,140,140,210,110
+1012,gare de train de lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,0,10,10
+1013,billet de train lyon pas cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1014,prix du billet paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1015,train paris sens,train paris lyon,8.93,0.08,170,480,590,720,880,720,880,720,720,720,720,590
+1016,gare du lion,train paris lyon,0.0,0.0,10,10,30,20,40,20,20,20,50,70,170,20
+1017,sncf tgv paris lyon perrache,train paris lyon,0.0,0.0,10,10,20,20,30,30,20,20,10,20,30,20
+1018,billet tgv pour lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1019,train paris cherbourg,train paris lyon,5.76,0.08,210,480,880,720,880,720,1000,590,720,720,1000,590
+1020,train pour lyon horaires,train paris lyon,0.0,0.0,0,10,10,20,10,10,10,10,10,10,10,10
+1021,lyon a paris train,train paris lyon,9.52,0.1,10,10,10,20,20,10,20,20,10,20,20,20
+1022,tgv paris lyon horaires,train paris lyon,2.86,0.06,210,720,880,880,880,880,390,880,720,880,720,590
+1023,prix sncf paris lyon,train paris lyon,7.14,0.06,10,10,10,10,10,10,10,10,10,10,10,10
+1024,billet pas cher lyon paris,train paris lyon,10.2,0.17,30,50,170,90,170,110,170,110,110,90,90,70
+1025,wifi paris lyon,train paris lyon,0.0,0.0,0,0,10,0,10,10,0,0,0,0,10,0
+1026,train paris royan,train paris lyon,11.45,0.12,110,210,320,260,170,170,260,320,880,880,590,480
+1027,billetterie paris lyon,train paris lyon,0.0,0.0,0,10,110,70,30,30,10,10,10,10,0,10
+1028,comment aller a lyon pas cher,train paris lyon,0.0,0.09,10,10,10,10,10,10,10,10,20,10,10,10
+1029,partir de lyon pas cher,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,20,10,10,10
+1030,train paris dieppe,train paris lyon,6.18,0.07,140,260,480,320,320,320,480,480,720,880,720,480
+1031,billet de train pour lyon sncf,train paris lyon,0.0,0.12,10,10,10,10,10,10,10,10,10,0,10,10
+1032,lyon orly train,train paris lyon,0.0,0.0,10,50,140,210,110,140,170,140,90,110,110,110
+1033,lyon billet de train,train paris lyon,85.71,0.08,10,10,40,30,30,20,30,30,20,20,30,30
+1034,billet de train paris lyon pas cher,train paris lyon,45.24,0.12,10,70,140,70,70,110,210,170,170,170,140,140
+1035,gare de lyon billet,train paris lyon,0.0,0.0,0,10,10,10,10,10,20,20,20,10,20,10
+1036,billet tgv gare de lyon,train paris lyon,0.0,0.0,10,10,10,10,10,20,10,10,20,20,10,10
+1037,train paris niort,train paris lyon,7.43,0.08,210,390,390,390,390,390,590,480,480,590,480,390
+1038,billet train lyon paris pas cher,train paris lyon,35.71,0.17,10,40,70,70,70,90,110,90,90,90,140,110
+1039,lyon paris train sncf,train paris lyon,2.04,0.06,10,30,30,30,30,30,70,50,50,20,50,50
+1040,horaire train paris lyon perrache,train paris lyon,0.0,0.0,0,10,10,10,10,10,20,20,10,10,20,10
+1041,train paris hyeres,train paris lyon,7.37,0.13,70,140,170,170,90,110,140,260,480,480,390,320
+1042,internet tgv,train paris lyon,4.76,0.0,10,20,50,70,30,50,70,70,90,90,110,110
+1043,train paris chamonix,train paris lyon,5.19,0.07,40,140,390,480,320,260,260,170,260,260,210,140
+1044,promo paris lyon,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,0,10,10,10
+1045,train narbonne paris,train paris lyon,9.44,0.07,110,140,320,320,390,260,480,390,590,480,390,320
+1046,ligne tgv paris lyon,train paris lyon,0.2,0.0,70,110,140,140,140,170,170,170,170,170,170,170
+1047,lyon paris train tgv,train paris lyon,0.0,0.0,10,10,10,10,20,10,20,10,10,10,10,20
+1048,le paris lyon,train paris lyon,0.0,0.0,10,30,30,30,30,30,50,30,20,40,50,70
+1049,billet train paris lyon pas cher,train paris lyon,10.05,0.17,50,70,140,90,70,90,110,140,110,110,110,90
+1050,sncf billet lyon,train paris lyon,0.0,0.22,10,10,10,10,10,20,10,10,10,10,10,10
+1051,prix billet de train tgv paris lyon,train paris lyon,0.0,0.0,10,0,0,0,0,0,0,0,0,0,0,0
+1052,sncf billet pas cher pour lyon,train paris lyon,0.0,0.0,0,0,0,10,0,10,10,0,0,0,0,0
+1053,pour aller à lyon,train paris lyon,0.0,0.0,40,50,90,110,110,90,140,110,210,140,110,90
+1054,tgv paris lyon pas cher,train paris lyon,35.71,0.2,10,10,10,30,50,90,140,40,90,70,90,30
+1055,billet tgv lyon paris pas cher,train paris lyon,34.29,0.28,10,20,50,30,20,20,40,30,20,20,50,70
+1056,billet sncf lyon,train paris lyon,0.0,0.0,10,10,10,20,10,20,20,20,10,20,20,20
+1057,train paris belfort,train paris lyon,20.28,0.11,90,210,260,210,260,260,320,320,260,320,320,260
+1058,lyon paris billet de train,train paris lyon,57.14,0.08,10,10,20,20,10,20,10,20,10,10,10,10
+1059,tgv low cost paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,0,10,10,10,10,10,10
+1060,billet pour lyon tgv,train paris lyon,0.0,0.0,10,10,0,0,10,10,10,10,10,10,10,10
+1061,lyon orly en train,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,20,10,20,10,20
+1062,prix billet sncf paris lyon,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+1063,train avignon nice,train paris lyon,7.77,0.1,50,70,210,170,140,210,210,260,320,390,260,210
+1064,sncf voyage paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,0,10,10,10,10,10,10
+1065,lyon paris pas cher sncf,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,0,10,10,10,10
+1066,tgv lyon paris horaires,train paris lyon,2.92,0.06,140,590,720,590,590,880,880,880,590,720,720,480
+1067,lyon orly tgv,train paris lyon,0.0,0.72,0,10,10,10,10,10,20,20,10,10,10,10
+1068,paris to nantes train,train paris lyon,7.14,0.1,40,170,260,140,170,170,260,260,210,210,260,140
+1069,horaire tgv paris lyon,train paris lyon,2.86,0.06,90,390,720,720,480,720,1000,880,480,720,720,720
+1070,horaires sncf paris lyon perrache,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+1071,aller retour lyon paris,train paris lyon,9.02,0.0,40,70,170,140,110,140,170,140,110,110,110,140
+1072,horaire tgv lyon paris,train paris lyon,2.26,0.0,40,110,260,320,210,320,480,390,210,260,390,320
+1073,paris to dijon train,train paris lyon,12.78,0.09,20,50,90,90,90,140,210,260,170,210,210,170
+1074,paris lyon train pas cher,train paris lyon,45.45,0.19,20,70,170,110,90,140,210,140,170,260,210,210
+1075,train montparnasse,train paris lyon,0.52,0.35,210,880,1300,1300,1900,1600,2900,1000,1000,1600,1600,1000
+1076,lyon a paris tgv,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,10,10,10,10,10
+1077,billet de train moins cher pour lyon,train paris lyon,0.0,0.0,0,10,10,0,10,10,0,10,10,0,10,10
+1078,tgv a lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1079,nice avignon train,train paris lyon,14.72,0.08,30,90,140,110,140,140,170,170,320,320,260,210
+1080,tarif tgv lyon paris,train paris lyon,0.0,0.0,10,20,70,90,70,90,140,210,110,70,110,110
+1081,sncf tgv lyon paris,train paris lyon,5.79,0.1,40,110,170,390,320,260,390,390,210,260,260,320
+1082,lyon paris place,train paris lyon,0.0,0.0,0,50,20,10,10,10,10,140,50,10,10,10
+1083,allez lyon,train paris lyon,0.0,0.0,40,140,210,110,90,170,140,90,90,40,50,110
+1084,idtgv paris lyon,train paris lyon,12.5,0.0,10,20,20,20,30,10,30,30,20,20,20,30
+1085,lyon paris orly train,train paris lyon,0.0,0.0,10,20,40,50,40,50,50,40,20,30,40,40
+1086,lyon billet train,train paris lyon,8.57,0.25,10,10,10,20,10,10,10,10,30,20,10,10
+1087,prix tgv lyon paris,train paris lyon,1.97,0.0,50,50,70,90,70,90,110,110,90,90,70,70
+1088,paris to lourdes train,train paris lyon,2.86,0.04,10,50,140,140,110,170,260,260,390,390,320,260
+1089,train londres brighton,train paris lyon,4.2,0.13,20,70,210,170,110,110,210,210,320,320,210,260
+1090,horaire et tarif tgv paris lyon,train paris lyon,0.0,0.0,0,0,0,10,0,10,10,10,10,0,10,10
+1091,train paris aix,train paris lyon,6.75,0.12,90,260,260,260,260,260,320,320,390,390,390,390
+1092,tgv paris cdg lyon,train paris lyon,0.0,0.0,20,50,20,10,30,20,20,30,30,20,20,20
+1093,tgv entre paris et lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,0,10,10,10,10
+1094,horaire des trains paris lyon,train paris lyon,6.12,0.0,10,10,20,20,20,20,10,10,20,20,10,20
+1095,prix du billet de tgv paris lyon,train paris lyon,0.0,0.0,0,0,0,0,0,0,10,0,0,0,0,0
+1096,billet train pas cher lyon paris,train paris lyon,100.0,0.14,10,20,70,40,40,50,70,50,40,70,90,40
+1097,lyon paris aller retour pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,10,20,10,10,10,10,10
+1098,gare tgv paris lyon,train paris lyon,0.0,0.0,10,20,30,20,10,10,30,30,20,20,20,20
+1099,horaire sncf tgv paris lyon,train paris lyon,0.0,0.0,10,10,20,10,10,20,30,20,10,10,10,20
+1100,tgv pas cher lyon paris,train paris lyon,0.0,0.0,0,20,40,30,30,70,70,30,30,50,70,50
+1101,billet de tgv lyon,train paris lyon,0.0,0.0,10,0,10,10,10,10,10,10,10,10,10,10
+1102,cannes to nice train,train paris lyon,1.79,0.0,10,70,210,170,260,320,720,1300,1300,1600,1300,1300
+1103,tarif sncf tgv paris lyon,train paris lyon,0.0,0.0,0,0,0,0,0,0,0,10,0,0,10,0
+1104,gare paris de lyon,train paris lyon,0.0,0.0,10,10,30,20,20,20,30,30,20,30,10,10
+1105,paris lyon en tgv,train paris lyon,5.79,0.09,40,50,90,90,70,90,110,140,90,90,110,70
+1106,sncf horaires paris lyon,train paris lyon,0.0,0.0,10,10,10,20,10,20,20,20,10,20,20,30
+1107,billet aller retour lyon,train paris lyon,14.29,0.09,10,10,10,10,10,20,10,10,20,10,10,10
+1108,voyage lyon paris,train paris lyon,2.86,0.0,20,40,40,50,90,50,50,30,40,50,50,30
+1109,gare de lyon reservation train,train paris lyon,0.0,0.0,0,10,10,0,10,10,0,10,10,10,10,10
+1110,trajet lyon paris pas cher,train paris lyon,2.38,0.21,10,10,50,30,40,50,70,50,70,50,50,50
+1111,train paris futuroscope,train paris lyon,0.89,0.19,20,70,210,170,70,140,210,170,210,210,170,210
+1112,reservation sncf paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1113,tgv de lyon,train paris lyon,0.0,0.0,10,10,20,10,10,10,10,10,10,10,20,10
+1114,lyon paris train horaires,train paris lyon,9.52,0.0,10,20,30,20,20,30,30,20,20,20,20,20
+1115,paris lyon tgv pas cher,train paris lyon,47.62,0.1,10,10,20,30,30,50,70,50,40,50,70,50
+1116,abonnement train paris lyon,train paris lyon,0.0,0.0,10,10,20,10,10,10,20,20,20,20,10,20
+1117,paris lyon moins cher,train paris lyon,0.0,0.11,0,30,50,20,70,40,70,50,40,50,50,50
+1118,lyon tgv gare,train paris lyon,0.0,0.0,0,10,20,30,10,20,30,20,40,90,30,40
+1119,billet pour lyon train,train paris lyon,0.0,0.0,0,10,10,10,0,10,10,10,10,10,0,0
+1120,paris lyon tgv durée,train paris lyon,0.31,0.0,140,170,260,170,140,170,390,320,390,390,320,320
+1121,train ouigo paris lyon,train paris lyon,46.75,0.11,10,70,110,140,170,170,210,170,170,110,170,110
+1122,sncf paris gare de lyon,train paris lyon,0.84,0.13,50,140,170,140,260,170,260,210,140,210,170,110
+1123,tgv sncf gare de lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,0,10,10,10,0,0
+1124,promo tgv paris lyon,train paris lyon,0.0,0.0,0,0,10,10,0,0,10,10,10,0,10,10
+1125,horaires des tgv paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,10,10,10,10,10
+1126,voyage tgv paris lyon,train paris lyon,0.0,0.0,10,0,0,10,0,0,0,10,0,0,10,10
+1127,lyon orly sncf,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1128,gare sncf paris lyon,train paris lyon,0.0,0.0,10,10,10,10,30,10,20,10,10,20,10,10
+1129,paris tgv lyon,train paris lyon,0.0,0.0,10,10,20,10,10,10,10,10,10,10,10,10
+1130,train à lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,20,10,30,10,10
+1131,ligne sncf paris lyon,train paris lyon,0.0,0.0,10,10,10,10,20,20,10,20,10,20,10,20
+1132,lyon paris orly tgv,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,0
+1133,lyon perrache paris sncf,train paris lyon,0.0,0.0,0,0,0,10,10,10,10,10,10,10,10,0
+1134,distance paris lyon tgv,train paris lyon,0.24,0.0,110,90,170,90,90,110,170,170,110,210,210,170
+1135,paris to tours train,train paris lyon,6.72,0.21,20,50,110,70,70,140,210,260,210,260,320,210
+1136,tgv lyon paris gare de lyon,train paris lyon,4.08,0.13,10,30,90,110,110,140,90,110,70,140,70,110
+1137,paris nimes,train paris lyon,4.15,0.1,880,1900,2900,1900,2900,1900,2900,2900,33100,4400,3600,3600
+1138,tgv pas cher lyon,train paris lyon,0.0,0.0,0,0,10,0,10,10,10,10,10,10,10,10
+1139,1er tgv paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1140,horaires de train gare de lyon,train paris lyon,0.0,0.0,10,30,50,70,70,110,70,70,70,70,70,50
+1141,tgv paris gare de lyon,train paris lyon,1.94,0.29,50,90,140,170,210,140,210,170,170,210,210,140
+1142,billet train paris aix en provence,train paris lyon,25.82,0.1,30,90,140,90,50,110,170,170,170,210,170,140
+1143,ouigo tgv paris lyon,train paris lyon,9.52,0.15,10,20,30,20,70,70,50,90,90,90,90,70
+1144,paris lyon billet,train paris lyon,19.64,0.13,20,70,210,140,90,110,90,110,90,70,90,90
+1145,train paris albertville,train paris lyon,0.48,0.06,30,110,210,210,170,170,140,70,110,140,110,50
+1146,trajet paris lyon pas cher,train paris lyon,0.0,0.0,10,10,10,20,20,30,30,30,40,40,30,40
+1147,direct paris lyon,train paris lyon,0.0,0.0,10,20,40,10,10,10,10,30,10,0,0,10
+1148,itineraire tgv paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1149,paris lion,train paris lyon,0.0,0.0,70,880,880,110,140,140,110,880,170,110,70,90
+1150,billet paris lyon tgv,train paris lyon,38.1,0.1,10,50,90,50,70,70,90,110,70,40,30,40
+1151,train paris gare de lyon,train paris lyon,2.98,0.08,70,170,260,210,260,210,390,210,170,210,170,170
+1152,billet sncf lyon paris,train paris lyon,16.84,0.25,30,90,210,260,210,320,260,320,320,320,320,320
+1153,billet tgv paris lyon moins cher,train paris lyon,0.0,0.16,0,0,10,10,10,10,10,10,10,10,10,10
+1154,train paris marseilles,train paris lyon,5.56,0.1,20,40,90,70,50,50,70,50,110,110,90,140
+1155,billet de tgv lyon paris,train paris lyon,26.53,0.11,10,30,50,40,50,70,90,70,50,50,50,40
+1156,reservation tgv lyon paris,train paris lyon,9.09,0.21,10,40,70,90,70,90,110,90,50,90,70,70
+1157,lyon paris tgv tarif,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1158,train de lyon,train paris lyon,0.0,0.0,10,20,40,20,30,30,40,40,30,30,30,30
+1159,tgv horaires paris lyon,train paris lyon,0.0,0.0,0,10,10,10,10,40,30,40,20,20,30,10
+1160,paris lyon tgv prix,train paris lyon,7.01,0.14,170,210,390,320,320,320,320,210,210,140,140,140
+1161,arrivée train gare de lyon,train paris lyon,0.0,0.0,90,720,1300,1000,720,1000,1300,1000,1600,1600,1300,1300
+1162,gare tgv entre paris et lyon,train paris lyon,0.0,0.0,10,10,20,30,30,20,20,30,20,20,20,20
+1163,cheap train tickets france,train paris lyon,5.71,0.0,20,90,170,140,170,170,260,210,210,210,140,110
+1164,paris to grenoble train,train paris lyon,20.24,0.08,10,70,110,110,110,110,110,110,110,110,210,90
+1165,billet tgv pas cher lyon paris,train paris lyon,0.0,0.0,10,10,20,10,10,10,20,10,20,20,20,10
+1166,aller retour lyon paris pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,20,20,10,20,10,10,20
+1167,lyon paris tgv horaires,train paris lyon,0.0,0.58,10,20,40,40,40,40,70,70,40,50,50,40
+1168,train paris lyon sncf,train paris lyon,8.49,0.12,40,110,320,320,390,390,390,170,110,90,90,110
+1169,ouigo train paris lyon,train paris lyon,0.0,0.0,10,20,70,50,70,70,70,70,70,50,70,70
+1170,partir de paris pour lyon,train paris lyon,0.0,0.0,10,10,10,10,10,0,10,10,0,10,10,10
+1171,voyage paris lyon pas cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,10,10,20,10,10
+1172,tgv paris lyon prix,train paris lyon,14.29,0.09,10,20,40,40,30,30,40,110,110,110,90,110
+1173,paris lyon pas cher avion,train paris lyon,0.0,0.0,0,10,10,10,20,10,20,10,20,20,10,10
+1174,prix train lyon paris,train paris lyon,7.86,0.07,20,30,50,50,50,50,70,70,70,50,50,40
+1175,sncf train lyon,train paris lyon,0.0,0.0,10,30,20,50,70,40,70,20,20,40,10,40
+1176,lyon paris moins cher,train paris lyon,0.0,0.06,10,10,70,20,40,40,50,30,70,40,30,50
+1177,billet tgv paris lyon pas cher,train paris lyon,23.81,0.05,10,10,40,10,10,30,40,30,30,30,20,10
+1178,billet ouigo paris lyon,train paris lyon,5.95,0.34,10,90,170,90,70,140,210,140,140,170,170,110
+1179,tgv france paris lyon,train paris lyon,0.0,0.0,0,0,0,0,0,0,10,0,0,10,0,0
+1180,ligne paris lyon,train paris lyon,0.0,0.0,20,30,50,50,50,40,50,40,40,70,50,40
+1181,voyage lyon paris pas cher,train paris lyon,0.0,0.07,10,10,10,10,10,10,30,20,10,20,10,20
+1182,paris to amiens train,train paris lyon,40.0,0.1,10,70,90,90,90,140,110,140,140,110,110,110
+1183,train lyon paris gare de lyon,train paris lyon,12.99,0.07,10,30,90,90,50,70,70,70,50,50,110,90
+1184,paris surgeres,train paris lyon,8.7,0.08,20,70,90,90,90,70,170,170,210,260,260,170
+1185,paris lyon tgv temps,train paris lyon,0.47,0.0,260,260,590,590,480,590,480,880,590,480,720,720
+1186,tgv lyon paris prix,train paris lyon,14.29,0.1,10,20,40,70,40,90,90,70,70,50,30,40
+1187,horaire de tgv paris lyon,train paris lyon,25.71,0.08,10,20,10,20,10,20,20,20,20,20,20,20
+1188,lyon paris itinéraire,train paris lyon,0.0,0.0,40,90,110,140,170,110,140,140,210,110,110,110
+1189,billet de train pour lyon part dieu,train paris lyon,26.19,0.07,10,20,50,20,10,40,50,30,40,70,40,50
+1190,billet de train tgv lyon paris pas cher,train paris lyon,100.0,0.09,10,10,20,20,10,10,20,10,10,20,20,10
+1191,train paris lyon horaires,train paris lyon,3.48,0.13,110,210,210,210,260,260,390,320,210,210,320,170
+1192,pas cher paris lyon,train paris lyon,0.0,0.0,0,0,10,0,10,10,10,10,0,0,0,0
+1193,horaire train tgv paris lyon,train paris lyon,0.0,0.06,10,0,10,0,10,10,10,10,10,10,10,10
+1194,paris lyon pas cher tgv,train paris lyon,0.0,0.0,0,10,20,10,10,10,10,10,10,10,10,10
+1195,lyon paris distance voiture,train paris lyon,0.0,0.0,10,40,90,70,140,50,40,50,90,70,70,70
+1196,horaires de train pour paris,train paris lyon,5.28,0.13,50,90,210,210,210,210,210,210,140,170,170,140
+1197,paris lyon distance train,train paris lyon,0.0,0.0,30,20,20,30,40,50,40,50,70,90,40,40
+1198,train tgv gare de lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1199,train gare lyon,train paris lyon,0.0,0.0,10,10,20,30,10,10,20,10,20,20,10,10
+1200,comment aller à paris pas cher,train paris lyon,3.57,0.07,10,10,20,20,50,50,70,50,30,40,70,30
+1201,gare sncf de paris lyon,train paris lyon,0.0,0.0,0,10,0,10,0,0,10,10,10,10,10,10
+1202,paris lyon aller retour,train paris lyon,4.08,0.12,10,20,70,50,50,50,70,40,70,50,40,50
+1203,train corail paris lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,20,10,10,10
+1204,train lyon paris horaires,train paris lyon,4.64,0.13,110,320,590,720,720,720,880,880,590,720,720,590
+1205,oui go paris lyon,train paris lyon,20.41,0.04,20,210,390,390,260,390,480,320,390,390,320,320
+1206,tgv orange lyon,train paris lyon,2.04,0.0,10,20,10,10,10,10,10,10,10,10,20,10
+1207,tarif train lyon paris,train paris lyon,0.0,0.0,10,10,30,40,20,40,50,50,30,30,20,40
+1208,aller retour paris lyon pas cher,train paris lyon,0.0,0.0,10,10,20,10,20,20,20,20,30,30,30,30
+1209,billet de train ouigo paris lyon,train paris lyon,0.0,0.09,10,30,50,30,30,50,50,30,30,50,50,40
+1210,train paris lyon tgv,train paris lyon,1.79,0.0,10,30,30,10,40,30,40,30,30,50,40,40
+1211,stockholm paris train,train paris lyon,0.0,0.0,10,10,30,40,20,30,50,20,30,40,40,30
+1212,sncf paris lyon pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,20
+1213,tgv vers lyon,train paris lyon,7.14,0.06,10,0,10,10,10,10,10,10,10,10,10,10
+1214,train sncf lyon paris,train paris lyon,4.15,0.06,30,50,50,70,90,90,140,70,50,70,70,70
+1215,voyage pas cher lyon paris,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+1216,billet train paris lyon pas cher aller retour,train paris lyon,0.0,0.11,0,10,30,30,10,20,20,20,20,30,30,30
+1217,paris lyon billet pas cher,train paris lyon,95.24,0.12,10,10,20,10,10,20,20,20,40,40,50,40
+1218,train paris surgeres,train paris lyon,25.0,0.07,20,70,90,70,90,90,140,110,170,210,170,140
+1219,paris lyon idtgv,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+1220,lyon paris distance train,train paris lyon,0.0,0.0,10,20,10,20,10,10,10,20,20,20,10,20
+1221,dernier tgv paris lyon,train paris lyon,0.0,0.0,0,10,20,20,10,30,20,20,10,20,30,10
+1222,sncf lyon paris pas cher,train paris lyon,0.0,0.0,0,10,10,20,20,20,10,20,10,20,30,10
+1223,paris lyon trajet,train paris lyon,0.58,0.0,140,140,260,170,260,170,140,140,210,170,170,210
+1224,sncf train lyon paris,train paris lyon,6.9,0.09,30,50,70,140,170,110,170,90,70,70,70,90
+1225,place lyon paris,train paris lyon,0.0,0.0,10,170,170,30,10,20,10,260,170,10,10,10
+1226,horaires train lyon paris,train paris lyon,1.9,0.0,10,50,90,90,70,110,170,210,110,140,170,140
+1227,paris lyon distance km,train paris lyon,0.14,0.0,110,70,210,170,210,110,110,140,170,170,90,140
+1228,train to lyon,train paris lyon,2.04,0.3,10,70,110,110,110,140,170,110,110,210,170,110
+1229,trajet paris lyon train,train paris lyon,2.86,0.0,10,10,20,20,10,20,30,30,30,20,20,20
+1230,train lyon paris sncf,train paris lyon,6.59,0.19,40,110,210,210,320,390,390,320,260,210,210,170
+1231,gare tgv de lyon,train paris lyon,0.0,0.0,10,20,30,20,20,30,30,30,10,30,30,30
+1232,train paris lyon ouigo,train paris lyon,11.22,0.12,10,70,90,110,110,170,170,170,70,70,110,70
+1233,lyon paris tgv temps,train paris lyon,0.78,0.0,90,140,260,210,170,260,320,320,320,320,260,260
+1234,tgv paris gare lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,0,10,10,10,10,10
+1235,train tgv lyon paris,train paris lyon,1.95,0.06,20,40,70,40,70,70,70,70,30,50,50,50
+1236,arrivée tgv gare de lyon,train paris lyon,0.0,0.0,10,170,390,320,260,390,390,210,390,320,320,390
+1237,billet lyon paris pas cher tgv,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+1238,gare lyon train,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1239,train paris rimini,train paris lyon,0.0,0.02,10,10,20,20,20,20,10,10,30,70,40,30
+1240,billet de train pour paris gare de lyon,train paris lyon,85.71,0.21,10,10,10,20,30,30,30,10,10,10,20,20
+1241,train de nuit paris lyon,train paris lyon,8.16,0.18,10,20,40,30,30,40,50,50,50,40,40,30
+1242,tarif sncf lyon paris,train paris lyon,0.0,0.0,20,10,40,40,20,30,20,30,20,40,30,50
+1243,paris lyon le moins cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,10,10,10,20,20
+1244,reservation tgv gare de lyon,train paris lyon,0.0,0.0,10,10,10,20,20,10,10,10,10,10,10,10
+1245,promo sncf paris lyon,train paris lyon,0.0,0.0,0,10,0,10,0,0,0,0,0,10,10,10
+1246,paris lyon part dieu pas cher,train paris lyon,0.0,0.0,0,10,20,10,10,10,10,20,10,10,10,40
+1247,train pour paris gare de lyon,train paris lyon,1.3,0.22,10,20,40,50,30,30,40,70,30,20,20,10
+1248,train paris nord,train paris lyon,0.68,0.0,40,90,140,140,170,140,170,140,110,170,170,90
+1249,paris gare de lyon tgv,train paris lyon,11.69,0.05,10,30,50,50,70,30,70,40,70,70,50,40
+1250,train low cost lyon,train paris lyon,0.0,0.0,10,10,10,0,0,0,10,10,10,0,10,10
+1251,horaires sncf tgv paris gare lyon,train paris lyon,0.0,0.0,0,0,0,0,10,0,10,10,0,0,10,0
+1252,trajet paris pas cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,20,10,10,20,10
+1253,paris lyon aller retour pas cher,train paris lyon,14.29,0.61,10,10,30,10,10,10,10,20,10,10,30,10
+1254,transport paris lyon pas cher,train paris lyon,64.29,0.48,10,10,10,10,10,10,10,10,10,10,10,10
+1255,paris lyon prix,train paris lyon,4.29,0.11,30,30,50,50,40,50,50,40,40,50,40,30
+1256,prix billet de train lyon paris,train paris lyon,14.29,0.07,10,20,20,20,30,30,30,30,40,40,30,20
+1257,train paris to moutiers,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,0,10,10,10,0
+1258,prix billet train lyon paris,train paris lyon,10.71,0.05,10,10,30,30,10,30,30,10,30,20,30,20
+1259,entre paris et lyon,train paris lyon,0.0,0.0,10,20,20,20,20,20,30,20,20,10,10,10
+1260,train paris lyon saint exupéry,train paris lyon,0.0,0.0,10,30,50,50,40,50,50,70,40,70,90,70
+1261,train de lyon a paris,train paris lyon,9.77,0.13,20,30,40,30,50,40,50,40,30,30,30,20
+1262,sncf billet lyon paris,train paris lyon,2.04,0.0,10,30,40,50,40,50,50,30,40,20,30,20
+1263,paris to frankfurt train,train paris lyon,10.54,0.09,170,480,880,1000,1000,1000,1300,1300,1000,1300,1000,880
+1264,train paris nîmes,train paris lyon,6.51,0.1,90,110,140,110,110,90,110,90,140,170,140,110
+1265,train lines france,train paris lyon,7.14,0.03,10,40,90,70,70,70,90,110,110,140,70,70
+1266,lyon paris le moins cher,train paris lyon,0.0,0.0,0,10,10,10,10,10,20,10,20,10,20,10
+1267,lyon paris 10 euros,train paris lyon,0.0,0.0,0,10,10,10,0,10,10,10,10,10,10,10
+1268,billet tgv lyon paris moins cher,train paris lyon,0.0,0.07,0,0,0,10,10,10,10,0,0,0,10,0
+1269,billet de train paris lyon ouigo,train paris lyon,28.57,0.12,10,20,30,40,20,20,10,20,20,50,30,20
+1270,lyon pari,train paris lyon,1.79,0.0,10,110,70,20,20,30,30,90,30,20,20,20
+1271,tgv paris lyon saint exupéry,train paris lyon,14.29,0.0,10,20,30,40,30,70,50,40,30,50,40,50
+1272,train paris gare de lyon lyon part dieu,train paris lyon,17.86,0.3,10,20,50,40,70,50,50,50,50,40,50,30
+1273,ouigo paris lyon perrache,train paris lyon,7.14,0.06,10,40,40,20,10,30,40,10,10,20,10,10
+1274,tgv gare lyon,train paris lyon,0.0,0.0,10,10,20,10,10,10,10,10,20,20,10,10
+1275,billet de train lyon paris aller retour pas cher,train paris lyon,0.0,0.0,0,0,10,10,10,10,10,10,10,10,10,10
+1276,tarif paris lyon tgv,train paris lyon,7.14,0.0,10,10,10,20,10,10,20,30,10,10,30,20
+1277,paris lyon train durée,train paris lyon,0.0,0.0,30,50,50,40,40,50,50,20,40,30,30,20
+1278,paris lyon en train pas cher,train paris lyon,42.86,0.15,10,10,10,10,10,10,20,20,20,20,10,10
+1279,sncf voyage lyon,train paris lyon,0.0,0.0,10,10,10,10,10,0,10,10,0,10,10,10
+1280,billet paris lyon moins cher,train paris lyon,0.0,0.17,10,10,10,10,10,10,10,30,10,20,10,10
+1281,prix billet lyon paris,train paris lyon,4.76,0.0,10,20,30,20,20,20,20,30,30,20,10,10
+1282,gare de train a lyon,train paris lyon,0.0,0.0,10,10,10,10,10,20,20,30,10,10,10,10
+1283,paris lyon par train,train paris lyon,0.0,0.0,10,10,20,10,10,10,10,10,10,20,10,10
+1284,billet de train lyon paris sncf,train paris lyon,7.14,0.09,10,10,20,20,30,30,40,50,50,50,40,70
+1285,billet de train lyon paris gare de lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,20,10,20,20,10
+1286,paris lyon low cost,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1287,paris lyon tgv horaires,train paris lyon,0.0,0.0,10,50,70,50,50,70,90,70,50,70,70,70
+1288,paris lyon pas cher train,train paris lyon,21.43,0.21,10,10,30,10,10,20,50,40,50,70,90,90
+1289,billet de train pour paris gare de lyon pas cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1290,trajet pour lyon,train paris lyon,0.0,1.32,10,10,20,10,10,10,10,10,10,10,10,10
+1291,billets de train pas cher lyon paris,train paris lyon,28.57,0.4,10,10,20,10,10,10,10,10,10,10,10,10
+1292,distance lyon paris tgv,train paris lyon,0.0,0.0,40,40,50,50,40,70,70,40,40,70,50,70
+1293,prix paris lyon tgv,train paris lyon,12.7,0.07,10,10,20,20,20,20,30,20,20,20,20,30
+1294,billet paris lyon pas cher train,train paris lyon,0.0,0.21,0,0,0,0,0,0,0,0,0,10,0,10
+1295,tarif train lyon,train paris lyon,0.0,0.04,10,10,10,10,10,10,10,10,10,10,10,10
+1296,sncf paris lyon tgv,train paris lyon,0.0,0.0,10,30,10,20,40,20,50,30,10,10,20,20
+1297,sncf reservation tgv lyon paris,train paris lyon,0.0,0.0,10,10,10,10,10,10,30,10,10,10,10,10
+1298,paris lyon transport,train paris lyon,16.33,0.0,10,20,20,10,20,10,10,20,20,10,10,20
+1299,billet de train pas cher lyon paris sncf,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,20,10,10,10
+1300,trajet pas cher lyon paris,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,20,10,20,10
+1301,trajet paris lyon tgv,train paris lyon,2.6,0.08,20,30,50,40,40,30,50,40,40,50,50,50
+1302,tgv ligne paris lyon,train paris lyon,0.0,0.0,0,0,0,10,10,10,10,0,10,10,10,10
+1303,prix billet tgv lyon paris,train paris lyon,4.76,0.0,10,10,10,20,20,10,40,30,10,40,40,20
+1304,billet paris lyon train,train paris lyon,10.0,0.0,10,20,30,30,30,40,40,40,40,40,40,30
+1305,billet de train pas cher lyon paris gare de lyon,train paris lyon,0.0,0.0,0,0,0,0,0,0,0,0,10,0,0,10
+1306,paris lyon pas cher sncf,train paris lyon,0.0,0.0,10,10,10,0,10,10,10,10,10,10,10,10
+1307,paris lyon comparateur de prix,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,0,10
+1308,ticket lyon paris,train paris lyon,0.0,0.0,10,20,20,10,30,20,20,30,20,20,10,20
+1309,paris lyon billet de train,train paris lyon,64.29,0.17,10,10,20,20,20,10,10,20,20,20,20,20
+1310,billet moins cher lyon paris,train paris lyon,7.14,0.0,10,10,50,20,40,10,30,10,30,20,10,10
+1311,comment aller a paris pas cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,20,10
+1312,train lyon paris tgv,train paris lyon,0.0,0.0,10,10,10,20,20,20,30,20,30,20,20,20
+1313,paris lyon train tgv,train paris lyon,4.29,0.0,10,10,10,20,10,10,10,20,10,10,10,10
+1314,trajet train lyon paris,train paris lyon,5.71,0.21,10,20,30,30,20,20,30,20,20,20,20,40
+1315,train paris lyon st exupery,train paris lyon,16.67,0.0,10,30,50,50,40,50,10,20,30,30,40,30
+1316,billet pas cher lyon paris tgv,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1317,tarif lyon paris,train paris lyon,0.0,0.0,10,10,10,20,10,10,10,20,30,10,20,20
+1318,lyon paris tgv durée,train paris lyon,0.0,0.0,70,30,140,70,90,90,90,110,110,70,90,90
+1319,aller paris pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,10,20,30,20,10,20,10
+1320,billet sncf lyon paris pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,20,10,20,10,20,10,10
+1321,trajet lyon paris tgv,train paris lyon,1.3,0.0,10,20,20,20,20,30,40,20,20,30,20,20
+1322,prix lyon paris,train paris lyon,4.08,0.0,10,20,20,20,10,20,20,20,20,20,20,10
+1323,train paris cdg lyon,train paris lyon,18.1,0.26,10,50,20,30,20,30,30,20,30,30,30,20
+1324,horaires tgv paris lyon perrache,train paris lyon,0.0,0.0,10,10,30,30,20,30,70,70,50,30,70,70
+1325,sncf billet pas cher lyon paris,train paris lyon,0.0,0.0,0,0,10,10,0,0,0,10,10,10,0,0
+1326,billet aller retour lyon paris,train paris lyon,0.0,0.0,10,10,30,20,10,20,30,20,10,20,20,20
+1327,billet paris lyon aller retour,train paris lyon,0.0,0.0,10,10,10,10,10,40,30,10,20,10,10,10
+1328,nîmes paris tgv,train paris lyon,18.37,0.14,10,40,50,40,70,50,70,70,110,110,70,50
+1329,billet de train pas cher paris lyon aller retour,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1330,lyon wifi,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1331,paris lyon distance voiture,train paris lyon,0.33,1.51,140,140,260,170,320,210,210,170,320,320,210,210
+1332,tarif lyon paris tgv,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1333,paris lyon train prix,train paris lyon,6.12,0.14,10,10,20,10,20,20,30,30,20,20,10,20
+1334,horaires sncf lyon paris,train paris lyon,0.0,0.0,10,20,50,70,40,90,110,110,70,90,110,110
+1335,orly lyon train,train paris lyon,0.0,0.0,10,30,30,30,20,40,30,40,30,30,20,40
+1336,billet paris lyon pas cher tgv,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1337,paris lyon pas cher idtgv,train paris lyon,0.0,0.0,0,0,10,10,10,0,10,0,0,10,0,10
+1338,paris lyon billet train,train paris lyon,25.0,0.09,10,10,20,30,20,30,40,20,20,20,20,10
+1339,paris lyon train temps,train paris lyon,0.0,0.0,110,170,320,210,210,170,170,320,320,260,260,210
+1340,tgv moins cher lyon paris,train paris lyon,0.0,0.0,0,0,10,0,10,10,10,10,10,10,10,10
+1341,billet moins cher paris lyon tgv,train paris lyon,0.0,0.0,0,0,0,10,0,0,10,0,0,0,10,0
+1342,tgv paris lyon durée,train paris lyon,0.0,0.0,50,50,90,70,70,110,110,110,110,110,70,70
+1343,trajet lyon paris train,train paris lyon,2.86,0.09,10,20,40,30,20,30,30,30,30,20,30,40
+1344,paris lyon tgv temps de trajet,train paris lyon,0.0,0.0,20,30,50,10,20,10,50,40,30,20,10,10
+1345,billet sncf pas cher lyon paris,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1346,billet de tgv pas cher lyon paris,train paris lyon,0.0,0.0,0,0,10,0,10,10,10,10,10,10,10,10
+1347,itineraire lyon paris,train paris lyon,0.0,0.0,50,70,140,140,210,140,110,140,210,170,140,140
+1348,reservation tgv lyon,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1349,tgv de lyon a paris,train paris lyon,0.0,0.06,10,10,10,10,10,10,10,10,10,10,10,10
+1350,aller retour paris lyon tgv,train paris lyon,3.57,0.0,10,10,20,20,10,10,20,20,10,10,10,10
+1351,billet de train paris lyon aller retour,train paris lyon,21.43,0.07,10,10,20,20,10,20,20,20,20,20,10,10
+1352,sncf pas cher lyon paris,train paris lyon,0.0,0.0,0,0,10,10,0,0,0,10,10,10,10,0
+1353,billet paris lyon sncf,train paris lyon,16.67,0.18,10,10,10,20,10,20,10,10,40,40,20,20
+1354,billet tgv lyon paris gare de lyon,train paris lyon,0.0,0.0,0,10,0,10,10,10,10,10,20,10,20,10
+1355,billet lyon paris sncf,train paris lyon,31.43,0.16,10,10,20,10,10,10,30,40,30,20,10,20
+1356,tarif tgv lyon paris aller retour,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,20,10,10,10,10
+1357,train low cost lyon paris,train paris lyon,0.0,0.0,0,0,20,10,10,10,10,10,10,10,10,10
+1358,train pari,train paris lyon,0.0,0.0,10,20,30,30,30,20,50,30,40,40,30,30
+1359,tgv gare de lyon paris,train paris lyon,33.04,0.47,20,20,40,30,50,10,70,30,40,40,30,20
+1360,billet de train paris lyon sncf,train paris lyon,15.58,0.14,10,10,10,30,20,20,20,40,40,30,30,30
+1361,distance train paris lyon,train paris lyon,0.0,0.0,10,10,20,10,20,20,10,10,70,320,10,20
+1362,billet pas cher paris lyon train,train paris lyon,0.0,0.0,0,10,0,0,0,10,10,0,0,10,10,0
+1363,billet de train pas cher paris lyon ouigo,train paris lyon,28.57,0.13,10,10,10,10,10,10,10,10,10,10,10,10
+1364,train paris rochelle,train paris lyon,16.33,0.17,20,20,30,40,30,10,20,30,50,50,50,50
+1365,départ train gare de lyon,train paris lyon,0.0,0.0,40,210,320,320,480,260,390,210,260,390,320,210
+1366,distance paris lyon en train,train paris lyon,0.71,0.0,20,20,30,20,20,30,20,10,70,320,20,20
+1367,sncf horaires tgv paris lyon,train paris lyon,0.0,0.0,10,10,20,20,30,20,40,20,10,20,10,30
+1368,paris lyon distance tgv,train paris lyon,0.0,0.0,110,90,140,140,140,170,170,170,170,260,140,210
+1369,gare tgv à lyon,train paris lyon,1.59,0.0,10,30,40,70,30,50,90,90,50,70,40,70
+1370,paris lyon sncf pas cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,10,10,10,10,10,30
+1371,train gare de lyon paris,train paris lyon,3.9,0.1,10,20,50,40,50,40,70,30,40,50,40,40
+1372,horaires tgv lyon paris gare de lyon,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,0,10,50
+1373,train paris lyon prix,train paris lyon,3.57,0.44,10,10,10,20,10,20,20,20,20,10,10,10
+1374,billet de train lyon paris pas cher aller retour,train paris lyon,0.0,0.0,0,0,0,10,0,0,0,0,10,0,0,0
+1375,tgv paris lyon sncf,train paris lyon,2.86,0.14,10,70,70,90,90,110,210,70,30,20,50,40
+1376,trajet tgv lyon paris,train paris lyon,0.0,0.0,10,20,30,30,30,40,50,40,40,40,50,50
+1377,tgv paris lyon temps,train paris lyon,0.77,0.2,40,50,70,70,50,70,70,70,70,90,70,70
+1378,paris lyon ter,train paris lyon,2.86,0.0,10,30,40,30,70,40,50,50,70,70,70,50
+1379,sncf paris lyon horaires,train paris lyon,0.71,0.06,20,50,50,20,20,30,40,20,10,40,70,70
+1380,gare tgv a lyon,train paris lyon,0.0,0.0,10,20,20,50,30,10,20,50,30,20,10,20
+1381,prix lyon paris tgv,train paris lyon,0.0,0.0,10,10,10,10,10,20,10,20,20,20,20,10
+1382,duree trajet paris lyon,train paris lyon,0.0,0.0,30,40,70,40,50,50,70,40,50,50,40,40
+1383,horaire train paris gare de lyon,train paris lyon,9.18,0.39,10,40,90,140,110,140,110,90,90,140,110,90
+1384,paris lyon horaire,train paris lyon,0.0,0.0,10,30,50,30,20,40,70,70,30,50,70,50
+1385,paris distance lyon,train paris lyon,0.0,0.0,20,10,20,40,20,20,30,30,20,20,10,20
+1386,billet lyon paris train,train paris lyon,1.59,0.0,10,20,70,20,30,30,40,70,50,50,20,30
+1387,paris lyon itinéraire,train paris lyon,0.0,0.0,50,170,260,210,260,210,210,210,260,260,170,210
+1388,paris lyon tarif,train paris lyon,19.05,0.0,10,10,10,20,10,10,10,10,10,20,10,20
+1389,billet tgv moins cher lyon paris,train paris lyon,0.0,0.0,0,10,10,10,20,10,10,10,0,20,10,0
+1390,train lyon a paris,train paris lyon,2.6,0.06,10,10,10,10,10,10,10,20,20,10,20,10
+1391,billet train paris lyon sncf,train paris lyon,21.43,0.0,10,10,10,10,10,10,20,20,30,30,20,10
+1392,de paris a lyon en train,train paris lyon,9.52,0.0,10,10,10,10,10,10,10,10,10,10,10,10
+1393,tgv sncf lyon paris,train paris lyon,7.14,0.06,10,10,40,40,30,30,40,20,20,50,30,30
+1394,duree tgv paris lyon,train paris lyon,0.0,0.0,50,40,90,90,70,70,90,110,90,90,70,110
+1395,billetterie lyon paris,train paris lyon,0.0,0.0,0,110,140,20,10,10,10,210,140,20,10,0
+1396,billet lyon paris train pas cher,train paris lyon,0.0,0.0,10,10,10,10,10,10,20,10,10,10,10,10
+1397,paris lyon vol low cost,train paris lyon,0.0,0.0,0,0,0,0,10,10,10,0,10,10,0,10
+1398,tgv lyon paris aller retour pas cher,train paris lyon,0.0,0.0,0,10,10,10,10,10,10,10,10,10,10,10
+1399,gare de tgv lyon,train paris lyon,0.0,0.08,10,10,10,10,10,10,10,10,10,10,10,10
+1400,nescafe espresso,freddo espresso,98.39,0.12,70,70,50,50,40,70,50,50,70,70,50,40
+1401,cafe freddo,freddo espresso,0.0,0.0,110,50,50,40,40,40,70,110,260,260,320,110
+1402,espresso italiano,freddo espresso,93.1,0.0,30,40,50,50,50,50,50,50,50,30,30,20
+1403,freddo cafe,freddo espresso,0.0,0.0,20,10,10,10,10,10,10,20,30,20,10,10
+1404,caffe macchiato,freddo espresso,35.29,0.0,50,50,90,90,90,90,90,90,90,70,70,70
+1405,metrio,freddo espresso,0.0,0.0,50,70,140,110,70,90,90,90,70,70,70,70
+1406,cappuccino frappe,freddo espresso,17.99,0.0,30,10,10,10,20,20,20,10,20,20,10,10
